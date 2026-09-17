@@ -1,0 +1,58 @@
+schema_version: 1
+status_values: [unscanned, partial, structure_complete, complete]
+categories:
+  normal:
+    - { name: Basecamp, url: "https://basecamp.com/", slug: basecamp, status: unscanned }
+    - { name: Help Scout, url: "https://www.helpscout.com/", slug: help-scout, status: unscanned }
+    - { name: Buffer, url: "https://buffer.com/", slug: buffer, status: unscanned }
+    - { name: Podia, url: "https://www.podia.com/", slug: podia, status: unscanned }
+    - { name: SavvyCal, url: "https://savvycal.com/", slug: savvycal, status: unscanned }
+    - { name: Calendly, url: "https://calendly.com/", slug: calendly, status: unscanned }
+    - { name: HEY, url: "https://www.hey.com/", slug: hey, status: unscanned }
+    - { name: Gusto, url: "https://gusto.com/", slug: gusto, status: unscanned }
+    - { name: Kit, url: "https://kit.com/", slug: kit, status: unscanned }
+    - { name: Typeform, url: "https://www.typeform.com/", slug: typeform, status: unscanned }
+  restaurant:
+    - { name: Pizzeria Beddia, url: "https://www.pizzeriabeddia.com/", slug: pizzeria-beddia, status: unscanned }
+    - { name: Home Slice Pizza, url: "https://homeslicepizza.com/", slug: home-slice-pizza, status: unscanned }
+    - { name: Pistacia Vera, url: "https://www.pistaciavera.com/", slug: pistacia-vera, status: unscanned }
+    - { name: Cafe Hagen, url: "https://cafehagen.com/", slug: cafe-hagen, status: unscanned }
+    - { name: Tartine Bakery, url: "https://tartinebakery.com/", slug: tartine-bakery, status: unscanned }
+    - { name: Federalist Pig, url: "https://www.federalistpig.com/", slug: federalist-pig, status: unscanned }
+    - { name: BAO London, url: "https://baolondon.com/", slug: bao-london, status: unscanned }
+    - { name: L'Industrie Pizzeria, url: "https://www.lindustriebk.com/", slug: l-industrie-pizzeria, status: unscanned }
+    - { name: Spoon and Stable, url: "https://www.spoonandstable.com/", slug: spoon-and-stable, status: unscanned }
+    - { name: Dishoom, url: "https://www.dishoom.com/", slug: dishoom, status: unscanned }
+  visual:
+    - { name: Sean Tucker, url: "https://www.seantucker.photography/", slug: sean-tucker, status: unscanned }
+    - { name: Dan Winters, url: "https://www.danwintersphoto.com/", slug: dan-winters, status: unscanned }
+    - { name: Jose Villa, url: "https://josevilla.com/", slug: jose-villa, status: unscanned }
+    - { name: Fer Juaristi, url: "https://ferjuaristi.com/", slug: fer-juaristi, status: unscanned }
+    - { name: Greg Williams, url: "https://gregwilliams.com/", slug: greg-williams, status: unscanned }
+    - { name: Julia Trotti, url: "https://www.juliatrotti.com/", slug: julia-trotti, status: unscanned }
+    - { name: Kyle Johnson, url: "https://www.kylejohnsonphotography.com/", slug: kyle-johnson, status: unscanned }
+    - { name: Giles Clement, url: "https://www.gilesclement.com/", slug: giles-clement, status: unscanned }
+    - { name: Benjamin Hardman, url: "https://benjaminhardman.com/", slug: benjamin-hardman, status: unscanned }
+    - { name: Viviane Sassen, url: "https://www.vivianesassen.com/", slug: viviane-sassen, status: unscanned }
+  tutor-education:
+    - { name: MyTutor, url: "https://www.mytutor.co.uk/", slug: mytutor, status: unscanned }
+    - { name: Tutorful, url: "https://tutorful.co.uk/", slug: tutorful, status: structure_complete, folder: tutorful }
+    - { name: Spires, url: "https://spires.co/", slug: spires, status: unscanned }
+    - { name: Juni Learning / Acely, url: "https://acely.com/", slug: acely, status: unscanned }
+    - { name: Lingoda, url: "https://www.lingoda.com/", slug: lingoda, status: unscanned }
+    - { name: Outschool, url: "https://outschool.com/", slug: outschool, status: unscanned }
+    - { name: Preply, url: "https://preply.com/", slug: preply, status: unscanned }
+    - { name: Superprof, url: "https://www.superprof.com/", slug: superprof, status: unscanned }
+    - { name: Khan Academy, url: "https://www.khanacademy.org/", slug: khan-academy, status: unscanned }
+    - { name: School of Motion, url: "https://www.schoolofmotion.com/", slug: school-of-motion, status: unscanned }
+  dance-studio-gym:
+    - { name: Steps on Broadway, url: "https://www.stepsnyc.com/", slug: steps-on-broadway, status: unscanned }
+    - { name: Broadway Dance Center, url: "https://www.broadwaydancecenter.com/", slug: broadway-dance-center, status: unscanned }
+    - { name: Peridance Center, url: "https://www.peridance.com/", slug: peridance-center, status: unscanned }
+    - { name: Pineapple Dance Studios, url: "https://www.pineapple.uk.com/", slug: pineapple-dance-studios, status: unscanned }
+    - { name: Danceworks London, url: "https://danceworks.com/", slug: danceworks-london, status: unscanned }
+    - { name: FRAME, url: "https://moveyourframe.com/", slug: frame, status: unscanned }
+    - { name: Barry's, url: "https://www.barrys.com/", slug: barrys, status: unscanned }
+    - { name: Solidcore, url: "https://solidcore.co/", slug: solidcore, status: unscanned }
+    - { name: Rumble Boxing, url: "https://www.rumbleboxinggym.com/", slug: rumble-boxing, status: unscanned }
+    - { name: F45 Training, url: "https://f45training.com/", slug: f45-training, status: unscanned }

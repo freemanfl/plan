@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /seo-services/
+Disallow: /law-firm-web-designer/
+Disallow: /world-of-concrete
+Disallow: /?ref=https://devpick.io
+Disallow: /?ref=https://codemonkey.link
+Disallow: /website-questionaire/
+Allow: /
+
+Sitemap: https://oakharborwebdesigns.com/sitemap.xml
+ 

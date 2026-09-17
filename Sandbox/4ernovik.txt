@@ -1,0 +1,8 @@
+ограничить количество первых клиентов до 10
+клиент получает почтовый ящик.
+Пишет с просьбой, ждет ответа, получает ответ и желательно результат в тот же день.
+
+Гладкий Скролл по секциям
+
+
+we want to elevate the feel for the client, but we shouldn't overdo luxury. example is a luxury restaurant that is just tooo visual and simple, this must be intentional, those can just have a single picture of a Michelin star dish on their website and it would work. we must remember the budget and the level, unless specifically asked not to

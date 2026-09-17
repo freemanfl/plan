@@ -1,0 +1,315 @@
+WEBSITE SKELETONS
+
+NORMAL
+
+1. Basecamp
+Header: compact navigation, sign-in and free-trial CTA.
+Hero: direct value proposition with product tour.
+Body: product imagery -> testimonial wall -> long-form problem/solution letter -> customer examples -> usage statistics -> support promise -> free class CTA.
+Footer: extensive resource and company links.
+
+2. Help Scout
+Header: product, solutions, resources and company dropdowns; demo and free-trial CTAs.
+Hero: centered promise, short explanation, two CTAs and product visual.
+Body: three benefit cards -> testimonial and logo strip -> product walkthrough -> feature groups with screenshots -> integrations -> reasons-to-believe cards -> final CTA.
+Footer: multi-column sitemap.
+
+3. Buffer
+Header: feature, channel, audience and resource dropdowns; pricing, login and signup.
+Hero: benefit-led headline, supporting copy, primary signup CTA and product preview.
+Body: social proof -> core tool sections alternating copy and UI -> channel integrations -> audience use cases -> testimonials -> pricing prompt -> final signup CTA.
+Footer: large categorized link grid.
+
+4. Podia
+Header: product and resource navigation; login and signup CTA.
+Hero: creator-focused headline, supporting copy and free-start CTA beside friendly product imagery.
+Body: trust statement -> product categories -> alternating feature explanations and screenshots -> creator testimonials -> pricing/value comparison -> FAQ -> final CTA.
+Footer: product, resources and company columns.
+
+5. SavvyCal
+Header: minimal product, teams, pricing and login links with signup CTA.
+Hero: large scheduling promise, short copy, CTA and calendar interface preview.
+Body: problem framing -> interactive scheduling benefits -> feature rows with product visuals -> integrations -> testimonials -> pricing CTA.
+Footer: compact sitemap and company details.
+
+6. Calendly
+Header: product, solutions, enterprise and resources dropdowns; login and signup.
+Hero: broad scheduling value proposition, signup CTA and product demonstration.
+Body: customer logos -> use-case tabs -> feature sections with UI imagery -> workflow/integration cards -> business results -> testimonials -> final signup CTA.
+Footer: extensive product and company directory.
+
+7. HEY
+Header: sparse product navigation with sign-in and trial CTA.
+Hero: oversized statement, explanatory copy and prominent product artwork/video.
+Body: opinionated problem story -> individual features presented as illustrated chapters -> email and calendar split -> quotes/reviews -> pricing -> trial CTA.
+Footer: compact 37signals product and policy links.
+
+8. Gusto
+Header: products, businesses, accountants and resources dropdowns; sign-in and pricing CTA.
+Hero: friendly business promise with CTA and people/product illustration.
+Body: customer logos -> product category cards -> benefit-led feature sections -> business-size pathways -> testimonials and statistics -> resources -> final CTA.
+Footer: deep multi-column navigation.
+
+9. Kit
+Header: product, resources and pricing navigation with login and free-start CTA.
+Hero: creator-focused promise, email capture/signup and creator imagery.
+Body: creator proof and metrics -> feature chapters -> monetization tools -> automation/product visuals -> creator stories -> plan comparison -> final signup.
+Footer: platform, company and resource columns.
+
+10. Typeform
+Header: product, solutions, resources and pricing; login and signup CTA.
+Hero: conversational headline, two CTAs and animated form/product example.
+Body: logo proof -> product-use cards -> interactive form examples -> feature and integration sections -> customer stories -> template discovery -> final CTA.
+Footer: large categorized sitemap.
+
+
+RESTAURANT
+
+1. Pizzeria Beddia
+Header: minimal logo/navigation with reservation CTA.
+Hero: food or venue image, short brand statement and introduction.
+Body: Hoagie Room feature -> menu introduction -> group dining/Pizza Party -> loose image gallery.
+Footer: address, hours, contact, social, merchandise and gift-card links.
+
+2. Home Slice Pizza
+Header: location-led navigation with order-online CTA.
+Hero: full-width video or image emphasizing the restaurant atmosphere.
+Body: short neighborhood-pizza positioning statement -> supporting food/oven visual -> location pathways.
+Footer: location menus, phone numbers, social and utility links.
+
+3. Pistacia Vera
+Header: extremely simple navigation with Order Now emphasized.
+Hero: brand-led bakery photography.
+Body: restrained location presentation with little copy.
+Footer/lower block: location, opening hours and essential contact information.
+
+4. Cafe Hagen
+Header: locations, menu, events and shop links with ordering/reservation action.
+Hero: bright lifestyle photography with concise Scandinavian cafe positioning.
+Body: featured locations -> food and coffee offerings -> events/community -> shop or merchandise -> social imagery.
+Footer: hours, addresses, newsletter and social links.
+
+5. Tartine Bakery
+Header: locations, menu/story and ordering links.
+Hero: large editorial bakery image with a direct order or location action.
+Body: current announcement -> bakery/restaurant introduction -> location cards -> product or story features -> cookbook/shop promotion.
+Footer: newsletter, location details, social and policies.
+
+6. Federalist Pig
+Header: menu, rewards, catering and location links with Order Online CTA.
+Hero: promotional carousel combining food imagery, offer copy and CTAs.
+Body: specials -> lunch promotion -> menu introduction -> catering feature.
+Footer: ordering, contact, careers, gift cards and email signup.
+
+7. BAO London
+Header: restaurant and karaoke navigation with delivery and booking actions.
+Hero: large signature-dish image, short restaurant descriptor and locations.
+Body: featured dish -> karaoke experience -> brand story -> careers.
+Footer: menus, bookings, gift cards, loyalty, contact and newsletter.
+
+8. L'Industrie Pizzeria
+Header: compact location/menu navigation with order action.
+Hero: bold brand mark paired with pizza and storefront imagery.
+Body: short introduction -> locations -> menu/order routes -> image-led social proof.
+Footer: hours, addresses, contact and social links.
+
+9. Spoon and Stable
+Header: about, reserve, menus and private dining links.
+Hero: nearly full-screen rotating food and interior photography.
+Body: intentionally minimal; the homepage primarily directs users into reservation and menu pages.
+Footer: restaurant name, address, phone and repeated navigation.
+
+10. Dishoom
+Header: cafe/location navigation with menus and booking CTA.
+Hero: atmospheric image, brand line, menu link and reservation action.
+Body: Bombay story -> menu/booking/store gateway cards -> cafe locations -> food story and gallery -> announcement -> recipes -> shop -> awards/social impact -> newsletter.
+Footer: full location and company navigation.
+
+
+VISUAL
+
+1. Sean Tucker
+Header: name/logo with publications, workshops and shop/cart navigation.
+Hero: portrait/image with a concise multidisciplinary introduction.
+Body: photography categories with image, text and link -> filmmaking disciplines -> books/publications -> newsletter.
+Footer: minimal name/brand treatment.
+
+2. Dan Winters
+Header/navigation: portfolio categories form the main interface.
+Hero: a single large featured photograph with photographer name.
+Body: image-first portfolio browsing organized into people, places, series and works on paper; very little explanatory copy.
+Footer: biography, contact, shop, video and social links.
+
+3. Jose Villa
+Header: understated identity and portfolio navigation.
+Hero: full-width or collage-based wedding imagery.
+Body: editorial image sequences with minimal interruptions -> selected work/about cues -> direct contact form.
+Footer: phone, email and basic social/contact information.
+
+4. Fer Juaristi
+Header: home, biography, portfolio, information, blog and contact.
+Hero: repeated editorial headline over expressive wedding imagery.
+Body: numbered visual sequence -> poetic brand story -> asymmetric photo compositions -> personal positioning -> recent posts -> contact CTA.
+Footer: location, contact, education links, social and newsletter.
+
+5. Greg Williams
+Header: minimal GWP identity with menu overlay.
+Hero: full-screen motion/video introducing the photographer and platform.
+Body: one featured editorial story at a time, led by a title followed by a large image sequence.
+Footer/menu: products, education, legal and social links.
+
+6. Julia Trotti
+Header: shop-led navigation for presets, LUTs, workshops and guides; search, region and cart controls.
+Hero: photography/product campaign with shop CTA.
+Body: featured product collections -> before/after demonstrations -> product grids -> educational content -> creator introduction -> testimonials/newsletter.
+Footer: shop support, account, social and policies.
+
+7. Kyle Johnson
+Header: small wordmark and portfolio-category navigation.
+Hero: large featured lifestyle/editorial photograph.
+Body: clean image grid or project index with restrained captions; projects open into simple galleries.
+Footer: about, contact and social links.
+
+8. Giles Clement
+Header: minimal name and portfolio/contact navigation.
+Hero: large tintype portrait immediately establishing the visual style.
+Body: sparse gallery of portrait series with generous whitespace and minimal text -> biography/contact.
+Footer: social and representation/contact information.
+
+9. Benjamin Hardman
+Header: compact portfolio, projects, journal, print and about navigation.
+Hero: near-full-screen Icelandic landscape imagery with restrained typography.
+Body: project/expedition cards -> selected photographic stories -> workshops or prints -> journal entries.
+Footer: contact, newsletter and social links.
+
+10. Viviane Sassen
+Header: artist name with works, exhibitions, books, biography and contact.
+Hero/index: artwork itself acts as the primary entry point.
+Body: simple project list or visual grid leading to individual series; project pages use large images and sparse metadata.
+Footer: minimal studio/contact information.
+
+
+TUTOR / EDUCATION
+
+1. MyTutor
+Header: tutors, subjects, schools and how-it-works navigation with login and find-a-tutor CTA.
+Hero: outcome-led tutoring promise, subject/level search and friendly student-tutor imagery.
+Body: trust metrics -> how it works -> tutor/profile examples -> subject coverage -> parent/student testimonials -> safeguarding/trust -> FAQ -> CTA.
+Footer: subjects, levels, company and support links.
+
+2. Tutorful
+Header: tutors, how it works, learner type and resources with login and Find a Tutor CTA.
+Hero: parent-focused promise with tutor search controls.
+Body: review proof -> how matching works -> popular subjects -> tutor cards -> learning-stage routes -> testimonials -> FAQ -> final search CTA.
+Footer: extensive subject, learner and company directory.
+
+3. Spires
+Header: find tutors, subjects, how it works and company/resources with login/signup.
+Hero: clear online-tutoring proposition plus subject search or request form.
+Body: ratings and institutional proof -> tutor marketplace preview -> three-step process -> subject/level grids -> platform features -> testimonials -> FAQ -> CTA.
+Footer: subjects, levels, tutoring locations and company links.
+
+4. Juni Learning / Acely
+Header: product/exam navigation, results/resources and login with trial/signup CTA.
+Hero: test-preparation outcome promise, product visual and primary CTA.
+Body: score/result proof -> learning process -> personalized practice features -> dashboard previews -> testimonials -> plan/pricing route -> FAQ -> final CTA.
+Footer: exam resources, company and legal links.
+
+5. Lingoda
+Header: languages, learning plans and business navigation with login and trial CTA.
+Hero: language-learning promise, offer/discount, CTA and teacher/student imagery.
+Body: trust ratings -> language choices -> how live classes work -> plan comparison -> teacher quality -> student results/testimonials -> FAQ -> final trial CTA.
+Footer: languages, products, company and support columns.
+
+6. Outschool
+Header: class search, browse categories, educator route, login and signup.
+Hero: large class search aimed at parents, supported by child-focused imagery.
+Body: popular categories -> recommended class cards -> age/interest routes -> how it works -> parent proof -> teacher invitation -> safety/trust.
+Footer: learner, educator, company and support links.
+
+7. Preply
+Header: language/tutor discovery, business offering and login/signup.
+Hero: language goal statement with tutor/language search and prominent CTA.
+Body: tutor cards -> review and learner metrics -> matching process -> lesson/product experience -> learning benefits -> testimonials -> popular languages/topics -> CTA.
+Footer: languages, tutors by location, company and support directory.
+
+8. Superprof
+Header: lesson search, teach/signup and login controls.
+Hero: subject plus location search over approachable tutor imagery.
+Body: popular subjects -> tutor profile cards -> how it works -> trust/review statistics -> broad subject directory -> tutor recruitment CTA.
+Footer: subjects, cities, company and legal links.
+
+9. Khan Academy
+Header: course browser and search with donate, login and signup actions.
+Hero: mission-led education promise with separate learner, teacher and parent pathways.
+Body: impact statistics -> subject/course categories -> personalized learning explanation -> teacher tools -> learner stories -> partner/support section -> signup CTA.
+Footer: course, organization, support and language links.
+
+10. School of Motion
+Header: courses, programs, resources and community with login/enrollment CTA.
+Hero: career-outcome headline, energetic motion reel and course-discovery CTA.
+Body: studio/employer proof -> course categories -> student work reel -> learning system -> instructor cards -> testimonials/outcomes -> course catalog -> FAQ -> enrollment CTA.
+Footer: education, resources, company and social links.
+
+
+DANCE STUDIO / GYM
+
+1. Steps on Broadway
+Header: dense program navigation with login and academy link.
+Hero: rotating program imagery for adult classes, professional training and youth academy.
+Body: three quick CTAs -> spotlight classes -> guest teachers -> upcoming workshops/programs -> schedule updates -> program promotions -> Instagram feed.
+Footer: schedule shortcuts, address and contact information.
+
+2. Broadway Dance Center
+Header: class schedule, programs, workshops and children/teens navigation.
+Hero: rotating announcement cards with registration CTAs.
+Body: primary quick links -> What's New cards -> featured class schedule -> FAQ accordion -> testimonials -> studio summary/location.
+Footer: addresses, contacts, accounts and shop link.
+
+3. Peridance Center
+Header: open classes, training, international, youth, company and rentals navigation.
+Hero: large studio/dancer image with registration emphasis.
+Body: program gateway links -> artist residency -> independent study -> audition promotion -> testimonial.
+Footer: quick links and student contact.
+
+4. Pineapple Dance Studios
+Header: strong split between Studios and Shop.
+Hero: brand-led dancer imagery and immediate class-booking route.
+Body: class search/schedule -> class categories -> teacher or event features -> studio hire -> brand/shop crossover.
+Footer: studio details, support, social and policies.
+
+5. Danceworks London
+Header: classes, schedule, teachers, memberships and studio-hire navigation with booking/login.
+Hero: energetic dance image or video, short positioning and Book a Class CTA.
+Body: timetable preview -> style/category cards -> featured teachers -> memberships/passes -> youth or specialist programs -> studio hire -> testimonials/news.
+Footer: location, opening hours, contact, newsletter and social.
+
+6. FRAME
+Header: studios, classes, timetable and pricing with booking/account CTA.
+Hero: energetic campaign image/video, short mood-led statement and Find a Class action.
+Body: class-type grid -> studio locations -> membership/pass options -> instructor/community content -> app promotion -> newsletter.
+Footer: studios, help, careers and social links.
+
+7. Barry's
+Header: locations, workout, shop and community navigation with Book a Class CTA.
+Hero: high-contrast campaign image/video with a strong workout promise.
+Body: Red Room workout explanation -> class format -> location finder -> first-timer information -> membership/packages -> community/editorial content -> app CTA.
+Footer: locations, support, company, social and legal links.
+
+8. Solidcore
+Header: workout, studios, pricing and first-timer information with Book a Class CTA.
+Hero: bold brand statement and studio imagery/video.
+Body: workout explanation -> class-level pathways -> benefits/results -> coach/community imagery -> studio finder -> testimonials -> introductory offer -> FAQ.
+Footer: locations, careers, support, app and social links.
+
+9. Rumble Boxing
+Header: workout, studios, instructors and first-timer information with Book a Class CTA.
+Hero: high-energy boxer imagery, direct promise and booking button.
+Body: workout format split -> first-class explanation -> benefits -> studio finder -> instructor/community content -> app or membership prompt.
+Footer: locations, franchise/careers, help and social links.
+
+10. F45 Training
+Header: workouts, studios, training programs and franchise navigation with Find a Studio CTA.
+Hero: video-led training promise with trial/location CTA.
+Body: workout benefits -> training-format categories -> studio finder -> transformation/community proof -> challenge/program promotion -> testimonials -> app CTA.
+Footer: workouts, company, franchise, support and social links.

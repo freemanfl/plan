@@ -1,0 +1,10 @@
+{
+  "purpose": "Raw research evidence for chat review; not the approved technical QA document.",
+  "retrieved": "2026-09-10",
+  "v3": {"repository":"https://github.com/Oak-Harbor-Kits/Starter-KitV3","commit":"d21c72681c7cd461e8d4400419f48bb53d17b86c"},
+  "v4": {"repository":"https://github.com/Oak-Harbor-Kits/Starter-Kit-V4-Eleventy","commit":"31e049740bae2b1ceff1f112576c748d806850a2"},
+  "liveOrigin":"https://oakharborwebdesigns.com",
+  "livePages":["/","/about/","/contact/","/web-design/","/faq/","/blog/","/blog/best-of-whidbey-digital-marketing-and-web-design/"],
+  "method":"Read HTML/templates and markup-producing configuration; parse live HTML to inventory tags and attributes. Read live unique lines with identical repeated lines deduplicated. Read navigation, dark-mode, FAQ scripts. Read robots and inspect sitemap structure. Readable HTML inserts newlines between adjacent tags; retain raw originals.",
+  "limits":"Not an exhaustive crawl of every live URL. No browser interaction, form submission, Lighthouse measurement, full CSS audit, or V4 build was performed. Generated V4 image markup was inspected through the shortcode implementation."
+}

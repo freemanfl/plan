@@ -1,0 +1,1093 @@
+
+FILE live-about-readable.html
+1: <!doctype html>
+2: <html lang="en">
+3: <head>
+4: <meta charset="UTF-8">
+5: <meta content="IE=edge" http-equiv="X-UA-Compatible">
+6: <meta content="width=device-width,initial-scale=1" name="viewport">
+7: <meta content="We have over 6 years of experience in working with small businesses building custom coded websites and targeted SEO campaigns that generate leads and grow thier business." name="description">
+8: <meta content="" name="keywords">
+9: <link href="https://oakharborwebdesigns.com/about/" rel="canonical">
+10: <meta content="telephone=no" name="format-detection">
+11: <meta content="About Us | Oak Harbor Web Designs" property="og:title">
+12: <meta content="We have over 6 years of experience in working with small businesses building custom coded websites and targeted SEO campaigns that generate leads and grow thier business." property="og:description">
+13: <meta content="website" property="og:type">
+14: <meta content="https://oakharborwebdesigns.com/about/" property="og:url">
+15: <meta content="/assets/images/banner.jpg" property="og:image">
+16: <meta content="/assets/images/banner.jpg" property="og:image:secure_url">
+17: <meta content="_ZhSOcTXawWVaCmrVPEN5EFfDoCrj6n9RcUOMzzdKzw" name="google-site-verification">
+18: <link href="/assets/favicons/apple-touch-icon.png" rel="apple-touch-icon" sizes="180x180">
+19: <link href="/assets/favicons/favicon-32x32.png?v1" rel="icon" type="image/png" sizes="32x32">
+20: <link href="/assets/favicons/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
+21: <link href="/assets/favicons/site.webmanifest" rel="manifest">
+22: <meta content="#da532c" name="msapplication-TileColor">
+23: <meta content="#ffffff" name="theme-color">
+24: <link href="/assets/svgs/logo-white.svg" rel="preload" as="image">
+25: <link href="/assets/images/satellite.svg" rel="preload" as="image">
+26: <link href="/assets/fonts/oswald-v53-latin-600.woff2" rel="preload" as="font" crossorigin type="font/woff2">
+27: <link href="/assets/fonts/yellowtail-v22-latin-regular.woff2" rel="preload" as="font" crossorigin type="font/woff2">
+28: <link href="/assets/css/root.css" rel="stylesheet">
+29: <link href="/assets/css/dark.css" rel="stylesheet">
+30: <script defer src="/assets/js/dark.js">
+31: </script>
+32: <script defer src="/assets/js/nav.js">
+34: <script>!function(t,e){var n;t.rdt||((n=t.rdt=function(){n.sendEvent?n.sendEvent.apply(n,arguments):n.callQueue.push(arguments)}).callQueue=[],(t=e.createElement("script")).src="https://www.redditstatic.com/ads/pixel.js",t.async=!0,(e=e.getElementsByTagName("script")[0]).parentNode.insertBefore(t,e))}(window,document),rdt("init","a2_ftiq30rg4a92"),rdt("track","PageVisit")</script>
+35: <script defer src="https://plausible.io/js/script.js" data-domain="oakharborwebdesigns.com">
+37: <link href="/assets/css/about.css" rel="stylesheet">
+38: <link href="/assets/css/universe.css" rel="stylesheet">
+39: <title>About Us | Oak Harbor Web Designs</title>
+40: </head>
+41: <body>
+42: <a class="skip" href="#main" aria-label="skip to main content">Click To Skip To Main Content</a>
+43: <header id="cs-navigation">
+44: <div class="cs-container">
+45: <a class="cs-logo" href="/" aria-label="back to home">
+46: <img alt="logo" decoding="async" height="43" src="/assets/images/logo.svg" width="197" aria-hidden="true" class="cs-default"> <img alt="logo" decoding="async" height="43" src="/assets/images/logo-white.svg" width="197" aria-hidden="true" class="cs-onscroll" loading="lazy">
+47: <div class="neon" aria-hidden="true" aria-label="after dark">
+48: <span>A</span> <span>f</span> <span>t</span> <span>e</span> <span>r</span> <span>D</span> <span>a</span> <span>r</span> <span>k</span>
+49: </div>
+50: </a>
+51: <nav class="cs-nav" role="navigation">
+52: <button aria-label="mobile menu toggle" class="cs-toggle">
+53: <div class="cs-box" aria-hidden="true">
+54: <span class="cs-line cs-line1" aria-hidden="true">
+55: </span> <span class="cs-line cs-line2" aria-hidden="true">
+56: </span> <span class="cs-line cs-line3" aria-hidden="true">
+57: </span>
+59: </button>
+60: <div class="cs-ul-wrapper">
+61: <ul class="cs-ul" aria-expanded="false" id="cs-expanded">
+62: <li class="cs-li">
+63: <a class="cs-li-link" href="/">Home</a>
+64: </li>
+65: <li class="cs-li cs-dropdown" tabindex="0">
+66: <span class="cs-li-link">About Us <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+68: <ul class="cs-drop-ul">
+69: <li class="cs-drop-li">
+70: <a class="cs-li-link cs-drop-link" href="/about/">About Us</a>
+73: <a class="cs-li-link cs-drop-link" href="/faq/">Faq</a>
+76: <a class="cs-li-link cs-drop-link" href="/reviews/">Reviews</a>
+78: </ul>
+81: <span class="cs-li-link">Services <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+85: <a class="cs-li-link cs-drop-link" href="/web-design/">Web Design</a>
+88: <a class="cs-li-link cs-drop-link" href="/seo-services/">SEO</a>
+91: <a class="cs-li-link cs-drop-link" href="/google-ppc-services/">Google PPC Ads</a>
+94: <a class="cs-li-link cs-drop-link" href="/white-label-partnerships/">White Label Partnerships</a>
+99: <span class="cs-li-link cs-dropdown-toggle">Top Locations <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+102: <li class="cs-drop-li cs-drop3-main">
+103: <span class="cs-li-link cs-drop-link">Washington <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+105: <ul class="cs-drop3">
+106: <li class="cs-drop-li3">
+107: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/anacortes/small-business-web-designer/">Anacortes</a>
+110: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/burlington/small-business-web-designer/">Burlington</a>
+113: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/coupeville/small-business-web-designer/">Coupeville</a>
+116: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/everett/small-business-web-designer/">Everett</a>
+119: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/freeland/small-business-web-designer/">Freeland</a>
+122: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/langley/small-business-web-designer/">Langley</a>
+125: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/marysville/small-business-web-designer/">Marysville</a>
+128: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/web-design/">Oak Harbor</a>
+131: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/port-townsend/small-business-web-designer/">Port Townsend</a>
+136: <span class="cs-li-link cs-drop-link">Indiana <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+138: <ul class="cs-drop3 cs3">
+140: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/chesterton/small-business-web-designer/">Chesterton</a>
+143: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/crown-point/small-business-web-designer/">Crown Point</a>
+146: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/fort-wayne/small-business-web-designer/">Fort Wayne</a>
+149: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/griffith/small-business-web-designer/">Griffith</a>
+152: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/hammond/small-business-web-designer/">Hammond</a>
+155: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/highland/small-business-web-designer/">Highland</a>
+158: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/hobart/small-business-web-designer/">Hobart</a>
+161: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/lafayette/small-business-web-designer/">lafayette</a>
+164: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/laporte/small-business-web-designer/">La Porte</a>
+167: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/merrillville/small-business-web-designer/">Merrillville</a>
+170: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/michigan-city/small-business-web-designer/">Michigan City</a>
+173: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/munster/small-business-web-designer/">Munster</a>
+176: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/portage/small-business-web-designer/">Portage</a>
+179: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/schererville/small-business-web-designer/">Schererville</a>
+182: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/south-bend/small-business-web-designer/">South Bend</a>
+185: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/valparaiso/small-business-web-designer/">Valparaiso</a>
+188: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/warsaw/small-business-web-designer/">Warsaw</a>
+191: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/whiting/small-business-web-designer/">Whiting</a>
+196: <span class="cs-li-link cs-drop-link">Illinois <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+200: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/lansing/small-business-web-designer/">Lansing</a>
+203: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/chicago/small-business-web-designer/">Chicago</a>
+206: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/chicago-heights/small-business-web-designer/">Chicago Heights</a>
+209: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/oak-park/small-business-web-designer/">Oak Park</a>
+212: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/south-holland/small-business-web-designer/">South Holland</a>
+215: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/orland-park/small-business-web-designer/">Orland Park</a>
+218: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/rockford/small-business-web-designer/">Rockford</a>
+223: <span class="cs-li-link cs-drop-link">Texas <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+227: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/austin/small-business-web-designer/">Austin</a>
+230: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/south-austin/small-business-web-designer/">South Austin</a>
+233: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/east-austin/small-business-web-designer/">East Austin</a>
+236: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/north-austin/small-business-web-designer/">North Austin</a>
+239: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/bouldin-creek/small-business-web-designer/">Bouldin Creek</a>
+242: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/zilker/small-business-web-designer/">Zilker</a>
+245: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/south-congress/small-business-web-designer/">South Congress</a>
+248: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/south-lamar/small-business-web-designer/">South Lamar</a>
+251: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/east-cesar-chavez/small-business-web-designer/">East Cesar Chavez</a>
+256: <span class="cs-li-link cs-drop-link">California <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+260: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/los-angeles/small-business-web-designer/">Los Angeles</a>
+263: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/anaheim/small-business-web-designer/">Anaheim</a>
+266: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/long-beach/small-business-web-designer/">Long Beach</a>
+269: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/irvine/small-business-web-designer/">Irvine</a>
+272: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/huntington-beach/small-business-web-designer/">Huntington Beach</a>
+275: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/newport-beach/small-business-web-designer/">Newport Beach</a>
+278: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/riverside/small-business-web-designer/">Riverside</a>
+281: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/santa-barbara/small-business-web-designer/">Santa Barbara</a>
+284: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/torrance/small-business-web-designer/">Torrance</a>
+287: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/carlsbad/small-business-web-designer/">Carlsbad</a>
+290: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/san-bernardino/small-business-web-designer/">San Bernardino</a>
+295: <span class="cs-li-link cs-drop-link">New York <img alt="dropdown icon" decoding="async" height="15" src="/assets/images/down.svg" width="15" aria-hidden="true" class="cs-drop-icon">
+299: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/new-york-city/small-business-web-designer/">New York City</a>
+302: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/brooklyn/small-business-web-designer/">Brooklyn</a>
+305: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/manhattan/small-business-web-designer/">Manhattan</a>
+308: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/queens/small-business-web-designer/">Queens</a>
+311: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/the-bronx/small-business-web-designer/">The Bronx</a>
+314: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/staten-island/small-business-web-designer/">Staten Island</a>
+317: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/harlem/small-business-web-designer/">Harlem</a>
+320: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/long-island/small-business-web-designer/">Long Island</a>
+323: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/yonkers/small-business-web-designer/">Yonkers</a>
+326: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/white-plains/small-business-web-designer/">White Plains</a>
+329: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/buffalo/small-business-web-designer/">Buffalo</a>
+332: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/albany/small-business-web-designer/">Albany</a>
+335: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/rochester/small-business-web-designer/">Rochester</a>
+338: <a class="cs-li-link cs-drop-link cs-drop-link3" href="/syracuse/small-business-web-designer/">Syracuse</a>
+345: <a class="cs-li-link" href="/pricing/">Pricing</a>
+348: <a class="cs-li-link" href="/blog/">Blog</a>
+351: <a class="cs-li-link" href="/contact/">Contact</a>
+355: </nav>
+356: <a class="cs-button-solid" href="/contact">Get Started</a>
+357: <button aria-label="dark mode toggle" id="dark-mode-toggle">
+358: <img alt="moon" decoding="async" height="15" src="/assets/svgs/moon.svg" width="15" aria-hidden="true" class="cs-moon"> <img alt="sun" decoding="async" height="15" src="/assets/svgs/sun.svg" width="15" aria-hidden="true" class="cs-sun">
+361: </header>
+362: <main id="main">
+363: <div id="banner-1519">
+365: <span class="cs-int-title">About Us</span>
+367: <svg class="cs-mask" fill="none" viewBox="0 0 1920 136" xmlns="http://www.w3.org/2000/svg" height="136" width="1920">
+368: <path d="M1920 136V0C1803.21 45.3334 1445.52 136 951 136C456.485 136 111.116 45.3334 0 0V136H951H1920Z" fill="var(--maskBG)" clip-rule="evenodd" fill-rule="evenodd"/>
+369: </svg>
+370: <div class="universe universe1">
+371: <span class="shooting-star">
+372: </span> <span class="shooting-star shooting-star2">
+373: </span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite"> <span class="star star1">
+374: </span> <span class="star star2">
+375: </span> <span class="star star3">
+376: </span> <span class="star star4">
+377: </span> <span class="star star5">
+378: </span> <span class="star star6">
+379: </span> <span class="star star7">
+380: </span> <span class="star star8">
+381: </span> <span class="star star9">
+382: </span> <span class="star star10">
+383: </span> <span class="star star11">
+384: </span> <span class="star star12">
+385: </span> <span class="star star13">
+388: <div class="universe universe2">
+389: <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite"> <span class="star star1">
+404: <div class="universe universe3">
+421: <section id="sbs-1456">
+423: <div class="cs-image-group">
+424: <picture class="cs-picture cs-picture1">
+425: <source media="(max-width: 600px)" srcset="/assets/images/oakharbor-m.webp">
+426: <source media="(min-width: 601px)" srcset="/assets/images/oakharbor.jpg">
+427: <img alt="oak harbor" decoding="async" height="765" src="/assets/images/oakharbor.jpg" width="540" aria-hidden="true" loading="lazy">
+428: </picture>
+429: <picture class="cs-picture cs-picture2">
+430: <source media="(max-width: 600px)" srcset="/assets/images/ryan-postell-m.webp">
+431: <source media="(min-width: 601px)" srcset="/assets/images/ryan-postell.jpg">
+432: <img alt="ryan postell" decoding="async" height="436" src="/assets/images/ryan-postell.jpg" width="390" aria-hidden="true" loading="lazy">
+435: <div class="cs-content">
+436: <span class="cs-topper">Oak Harbor Web</span>
+437: <h2 class="cs-title">We Make Websites With Purpose & Intent</h2>
+438: <p class="cs-text">My name is Ryan, I am the owner and lead developer of Oak Harbor Web Designs. I got into programming after my wife had our first child. I was and still am a stay-at-home dad, and I wanted a career that I can do from home and still be there with the kids to watch them grow up. So over the course of two years I taught myself how to code websites the right way by hand and just started calling small businesses to offer my help and have been growing every year since 2019.</p>
+439: <p class="cs-text">What I found was that a lot of small businesses don't have the funds to spend thousands of dollars upfront on a new website. And the ones that did, got taken advantage of and have a terrible website that looks like it was built by someone in a dungeon and haven't seen design trends for the last 10 years. They were in a frustrating spot - they either can't afford a good website, and if they can they don't know who to trust to make something great. So I tweaked my business model to fit their needs. That's how I came up with my $0 down and $175 a month model. It's more manageable for a small business to handle and won't hurt their bank accounts.</p>
+440: <a class="cs-button-solid" href="/contact/">Call Us Today</a>
+443: <picture class="cs-background">
+444: <source media="(max-width: 600px)" srcset="/assets/images/forest-m.webp">
+445: <source media="(min-width: 601px)" srcset="/assets/images/forest.jpg">
+446: <img alt="forest" decoding="async" height="965" src="/assets/images/forest.jpg" width="1920" loading="lazy">
+448: </section>
+449: <section id="services-1331">
+452: <div class="cs-flex-group">
+453: <span class="cs-topper">Our Working Process</span>
+454: <h2 class="cs-title">We Take Care Of Everything</h2>
+456: <p class="cs-text">After a contract is signed we send a small questionnaire about your business and what you offer, then we expand on that content and write the entire site’s content for you, create the design, get approval, then we build. Generally takes 2-3 weeks from start to finish.</p>
+458: <ul class="cs-card-group">
+459: <li class="cs-item">
+460: <span class="cs-step">Step 1</span>
+461: <h3 class="cs-h3">Complete Questionnaire</h3>
+462: <p class="cs-item-text">We send you an email with less than 10 questions about your business, services, what sets you apart, etc and we do all the rest.</p>
+465: <span class="cs-step">Step 2</span>
+466: <h3 class="cs-h3">Design Approval</h3>
+467: <p class="cs-item-text">We then do a video screen share showing you the first draft and make any changes you want to make sure you’re 100% satisfied.</p>
+470: <span class="cs-step">Step 3</span>
+471: <h3 class="cs-h3">Development</h3>
+472: <p class="cs-item-text">Once approved, we can start coding the site out and setting everything up. We will send a demo link to view before we launch and go live.</p>
+477: <section id="video-1682">
+480: <span class="cs-topper">In The News</span>
+481: <h2 class="cs-title">Featured In CompTIA’s Documentary About Inspiring Stories in Tech</h2>
+483: <a class="cs-big-link" href="https://explore.comptia.org/individual-videos/ryan-postell" aria-label="Open Ryan's CompTIA talk in a new browser window" target="_blank">
+485: <source media="(max-width: 600px)" srcset="/assets/images/comptia-1de87598d6f03021b2b29fc9f1f33eb3.avif" type="image/avif">
+486: <source media="(max-width: 600px)" srcset="/assets/images/comptia-dd1fa42aea9927eaf2490640b6550776.webp" type="image/webp">
+487: <source media="(max-width: 600px)" srcset="/assets/images/comptia-02a86311e14dca4e7e4064c7629c9c57.jpeg" type="image/jpeg">
+488: <source media="(max-width: 1024px)" srcset="/assets/images/comptia-5012f1e61345365c11fc4cc2d2b1224a.avif" type="image/avif">
+489: <source media="(max-width: 1024px)" srcset="/assets/images/comptia-5cd4fbe85efc7a0fd5b4d174a530679d.webp" type="image/webp">
+490: <source media="(max-width: 1024px)" srcset="/assets/images/comptia-c48eec6a88c3f166b4476ec340515b80.jpeg" type="image/jpeg">
+491: <source media="(min-width: 1024px)" srcset="/assets/images/comptia-b3926973b7b1457a4a8036f5db17102f.avif" type="image/avif">
+492: <source media="(min-width: 1024px)" srcset="/assets/images/comptia-4879aeeb14793da68d610078b0cdfaaf.webp" type="image/webp">
+493: <source media="(min-width: 1024px)" srcset="/assets/images/comptia-453b1b0d4a66520eb31d9b798a7b7fdf.jpeg" type="image/jpeg">
+494: <img alt="A screenshot of Ryan Postell's CompTIA interview" decoding="async" height="603" src="/assets/images/comptia-1b9b356b2ef595b636b5625f7cfb54da.jpeg" width="1280" aria-hidden="true" loading="lazy">
+496: <img alt="play icon" decoding="async" height="110" src="/assets/svgs/play.svg" width="110" aria-hidden="true" class="cs-link-icon" loading="lazy">
+500: <section id="meet-team-1368">
+503: <span class="cs-topper">Our Team</span>
+504: <h2 class="cs-title">Meet The Team Behind Oak Harbor Web Designs</h2>
+505: <p class="cs-text">Every team member has extensive experience, knowledge, and skills in their respective fields that have been honed and perfected over many years. This ensures that every part of your website is done right and by someone who knows those parts inside and out.</p>
+509: <div class="cs-picture-wrapper">
+510: <picture class="cs-picture">
+511: <source media="(max-width: 600px)" srcset="/assets/images/ryan-p-m.webp">
+512: <source media="(min-width: 601px)" srcset="/assets/images/ryan-p.jpg">
+513: <img alt="ryan postell" decoding="async" height="413" src="/assets/images/ryan-p.jpg" width="413" aria-hidden="true">
+515: <div class="cs-social">
+516: <a class="cs-link" href="https://www.linkedin.com/in/ryan-postell-727b82107/" aria-label="LinkedIn" target="_blank" rel="noopener">
+517: <img alt="linkedin" decoding="async" height="16" src="/assets/images/linkedin.svg" width="17" aria-hidden="true" class="cs-icon" loading="lazy"> </a>
+518: <a class="cs-link" href="https://www.youtube.com/@oakharborwebdesigns5169" aria-label="Youtube" target="_blank" rel="noopener">
+519: <img alt="youtube" decoding="async" height="16" src="/assets/images/youtube.svg" width="17" aria-hidden="true" class="cs-icon" loading="lazy">
+523: <div class="cs-info">
+524: <span class="cs-name">Ryan Postell</span> <span class="cs-job">Owner, Lead Developer</span>
+530: <source media="(max-width: 600px)" srcset="/assets/images/alyse-garcia-m.webp">
+531: <source media="(min-width: 601px)" srcset="/assets/images/alyse-garcia.jpg">
+532: <img alt="alyse garcia" decoding="async" height="413" src="/assets/images/alyse-garcia.jpg" width="413" aria-hidden="true">
+535: <a class="cs-link" href="https://www.linkedin.com/in/alysebgarcia/" aria-label="LinkedIn" target="_blank" rel="noopener">
+536: <img alt="linkedin" decoding="async" height="16" src="/assets/images/linkedin.svg" width="17" aria-hidden="true" class="cs-icon" loading="lazy">
+541: <span class="cs-name">Alyse Garcia</span> <span class="cs-job">Front End Developer, Support</span>
+547: <source media="(max-width: 600px)" srcset="/assets/images/ethan-hawes-m.webp">
+548: <source media="(min-width: 601px)" srcset="/assets/images/ethan-hawes.jpg">
+549: <img alt="ethan hawes" decoding="async" height="413" src="/assets/images/ethan-hawes.jpg" width="413" aria-hidden="true">
+552: <a class="cs-link" href="https://www.linkedin.com/in/ethan-hawes/" aria-label="LinkedIn" target="_blank" rel="noopener">
+558: <span class="cs-name">Ethan Hawes</span> <span class="cs-job">Developer, Support, Shopify</span>
+564: <source media="(max-width: 600px)" srcset="/assets/images/stacy.jpg">
+565: <source media="(min-width: 601px)" srcset="/assets/images/stacy.jpg">
+566: <img alt="Stacey Muscat" decoding="async" height="413" src="/assets/images/stacy.jpg" width="413" aria-hidden="true">
+570: <span class="cs-name">Stacey Muscat</span> <span class="cs-job">Front End Developer, Support</span>
+576: <source media="(max-width: 600px)" srcset="/assets/images/carlo.jpg">
+577: <source media="(min-width: 601px)" srcset="/assets/images/carlo.jpg">
+578: <img alt="walid" decoding="async" height="413" src="/assets/images/carlo.jpg" width="413" aria-hidden="true">
+581: <a class="cs-link" href="https://www.linkedin.com/in/carlopelosi" aria-label="LinkedIn" target="_blank" rel="noopener">
+587: <span class="cs-name">Carlo Pelosi</span> <span class="cs-job">Frontend Developer, Support</span>
+593: <source media="(max-width: 600px)" srcset="/assets/images/adnan.jpg">
+594: <source media="(min-width: 601px)" srcset="/assets/images/adnan.jpg">
+595: <img alt="walid" decoding="async" height="413" src="/assets/images/adnan.jpg" width="413" aria-hidden="true">
+598: <a class="cs-link" href="https://www.linkedin.com/in/adnan-radwan/" aria-label="LinkedIn" target="_blank" rel="noopener">
+604: <span class="cs-name">Adnan Radwan</span> <span class="cs-job">Frontend Developer</span>
+610: <source media="(max-width: 600px)" srcset="/assets/images/karen-maristani-m.webp">
+611: <source media="(min-width: 601px)" srcset="/assets/images/karen-maristani.jpg">
+612: <img alt="karen maristani" decoding="async" height="413" src="/assets/images/karen-maristani.jpg" width="413" aria-hidden="true">
+615: <a class="cs-link" href="https://www.linkedin.com/in/karenmaristani/" aria-label="LinkedIn" target="_blank" rel="noopener">
+621: <span class="cs-name">Karen Maristani</span> <span class="cs-job">Copywriter</span>
+627: <source media="(max-width: 600px)" srcset="/assets/images/adam-gingery-m.webp">
+628: <source media="(min-width: 601px)" srcset="/assets/images/adam-gingery.jpg">
+629: <img alt="adam gingery" decoding="async" height="413" src="/assets/images/adam-gingery.jpg" width="413" aria-hidden="true">
+632: <a class="cs-link" href="https://www.linkedin.com/in/adam-gingery/" aria-label="LinkedIn" target="_blank" rel="noopener">
+638: <span class="cs-name">Adam Gingery</span> <span class="cs-job">SEO & Google Ads Specialist</span>
+644: <source media="(max-width: 600px)" srcset="/assets/images/matt-barbuzzi-m.webp">
+645: <source media="(min-width: 601px)" srcset="/assets/images/matt-barbuzzi.jpg">
+646: <img alt="matt barbuzzi" decoding="async" height="413" src="/assets/images/matt-barbuzzi.jpg" width="413" aria-hidden="true">
+649: <a class="cs-link" href="https://www.linkedin.com/in/matt-barbuzzi-06651a123/" aria-label="LinkedIn" target="_blank" rel="noopener">
+655: <span class="cs-name">Matt Barbuzzi</span> <span class="cs-job">Backend Developer, Shopify</span>
+661: <source media="(max-width: 600px)" srcset="/assets/images/walid-sayed-m.webp">
+662: <source media="(min-width: 601px)" srcset="/assets/images/walid-sayed.jpg">
+663: <img alt="walid" decoding="async" height="413" src="/assets/images/walid-sayed.jpg" width="413" aria-hidden="true">
+666: <a class="cs-link" href="https://dribbble.com/rhagency" aria-label="Dribbble" target="_blank" rel="noopener">
+667: <img alt="dribbble" decoding="async" height="16" src="/assets/images/dribbble.svg" width="17" aria-hidden="true" class="cs-icon" loading="lazy"> </a>
+668: <a class="cs-link" href="https://www.linkedin.com/in/walidbinsayed/" aria-label="LinkedIn" target="_blank" rel="noopener">
+674: <span class="cs-name">Walid Sayed</span> <span class="cs-job">UI/UX Designer</span>
+679: <div class="cs-bubbles" aria-hidden="true">
+682: <section id="reviews-355">
+685: <span class="cs-topper">Testimonials</span>
+686: <h2 class="cs-title">Trusted Web Designer Across The Country</h2>
+687: <p class="cs-text">We have helped small business owners all over the US and Canada get the website they have been wanting for years. We are invested in our clients just as much as they are in our work. When you work with Oak Harbor Web Designs, you aren’t just working with an agency, you’re working with a dedicated partner.</p>
+691: <img alt="quote icon" decoding="async" height="33" src="/assets/images/quote.svg" width="40" aria-hidden="true" class="cs-quote">
+692: <p class="cs-review">I couldn't ask for a better product, all the hard work he puts into he work shows. He's has an awesome way building a website of your choice to the specs of your choice. And he's super friendly and one of the best to work</p>
+693: <span class="cs-name">Ryan Y.</span> <span class="cs-location">Goshen, IN</span>
+697: <p class="cs-review">Worked with Oak Harbor Designs to discuss a possible website development. Super intelligent and highly knowledgeable with the work they offer. I can’t recommend them enough. If you want things done right. This is the place.</p>
+698: <span class="cs-name">Caleb M.</span> <span class="cs-location">Oak Harbor, WA</span>
+702: <p class="cs-review">Ryan was great to work with, always available and created a wonderful website for my business. Couldn't recommend him enough!</p>
+703: <span class="cs-name">David S.</span> <span class="cs-location">Fresno, CA</span>
+710: <section id="cta-1693">
+711: <div class="cs-wrapper">
+714: <h2 class="cs-title">Ready To Get The Site You Always Wanted?</h2>
+715: <a class="cs-button-solid cs-secondary" href="/contact">Get Started Today</a>
+718: <div class="cs-lights-wrapper" aria-hidden="true">
+719: <picture class="cs-lights">
+720: <source media="(max-width: 1023px)" srcset="/assets/images/lights-m.svg">
+721: <source media="(min-width: 1024px)" srcset="/assets/images/lights.svg">
+722: <img alt="graphic" decoding="async" height="132" src="/assets/images/lights-m.svg" width="275" aria-hidden="true" loading="lazy">
+724: <div class="cs-flare light1">
+726: <div class="cs-flare light2">
+728: <div class="cs-flare light3">
+730: <div class="cs-flare light4">
+732: <div class="cs-flare light5">
+734: <div class="cs-bulb cs-bulb1">
+736: <div class="cs-bulb cs-bulb2">
+738: <div class="cs-bulb cs-bulb3">
+740: <div class="cs-bulb cs-bulb4">
+742: <div class="cs-bulb cs-bulb5">
+747: </main>
+748: <footer id="cs-footer-840">
+750: <div class="cs-logo-group">
+751: <a class="cs-logo" href="/" aria-label="go back to home">
+752: <img alt="logo" decoding="async" height="32" src="/assets/images/logo-white.svg" width="240" aria-hidden="true" class="cs-logo-img" loading="lazy">
+757: <p class="cs-text">We believe small businesses deserve better. Just because you’re small, doesn’t mean your site needs to be. Let us make you something amazing.</p>
+758: <a class="cs-button-solid cs-white" href="/contact/">Get Started Today</a>
+761: <span class="cs-header">Quick Links</span>
+762: <ul class="cs-ul cs-ul-1">
+764: <a class="cs-link" href="/">Home</a>
+767: <a class="cs-link" href="/about/">About</a>
+770: <a class="cs-link" href="/reviews/">Reviews</a>
+773: <a class="cs-link" href="/blog/">Blog</a>
+776: <a class="cs-link" href="/web-design/">Web Design</a>
+779: <a class="cs-link" href="/seo-services/">SEO</a>
+782: <a class="cs-link" href="/google-ppc-services/">Google PPC Ads</a>
+787: <span class="cs-header">Contact Information</span>
+788: <ul class="cs-ul">
+790: <span class="cs-link" target="_blank">
+791: <img alt="clock icon" decoding="async" height="20" src="/assets/images/clock-grey.svg" width="20" aria-hidden="true" class="cs-icon" loading="lazy"> 24/7</span>
+794: <a class="cs-link" href="tel:219-576-2539">
+795: <img alt="phone icon" decoding="async" height="20" src="/assets/images/phone-grey.svg" width="20" aria-hidden="true" class="cs-contact-icon" loading="lazy"> (219) 576-2539</a>
+798: <a class="cs-link" href="mailto:ohwdinfo@gmail.com">
+799: <img alt="email icon" decoding="async" height="20" src="/assets/images/message-grey.svg" width="20" aria-hidden="true" class="cs-icon" loading="lazy"> ohwdinfo@gmail.com</a>
+803: <img alt="pin icon" decoding="async" height="20" src="/assets/images/pin-grey.svg" width="20" aria-hidden="true" class="cs-icon" loading="lazy"> United States</span>
+808: <div class="cs-bottom">
+809: <span class="cs-credit">© Copyright 2025 <span class="cs-credit-link">Oak Harbor Web Designs</span>
+811: <div class="cs-bottom-links">
+812: <a class="cs-bottom-link" href="/privacy-policy/">Privacy Policy</a> <a class="cs-bottom-link" href="/terms-of-service/">Terms Of Use</a>
+815: <svg class="cs-footer-swoosh" fill="none" viewbox="0 0 1920 254" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+816: <path d="M1668.54 58.137c124.52 31.881 204.12 63.173 251.46 85.537V-4H0v254C356.508 169.957 717.072 91.544 986.268 43.36 1255.46-4.822 1443.9.623 1668.54 58.138Z" fill="var(--footerSwish)"/>
+818: </footer>
+819: <script defer>document.addEventListener("scroll",e=>{100<=document.documentElement.scrollTop?document.querySelector("body").classList.add("scroll"):document.querySelector("body").classList.remove("scroll")})</script>
+820: </body>
+821: </html>
+
+FILE live-blog-readable.html
+7: <meta content="Catch up on our latest news and developer tips for building better websites and managing an agency." name="description">
+9: <link href="https://oakharborwebdesigns.com/blog/" rel="canonical">
+11: <meta content="Blog | Oak Harbor Web Designs" property="og:title">
+12: <meta content="Catch up on our latest news and developer tips for building better websites and managing an agency." property="og:description">
+14: <meta content="https://oakharborwebdesigns.com/blog/" property="og:url">
+28: <link href="g" rel="preload" as="image">
+38: <link href="/assets/css/blog.css" rel="stylesheet">
+40: <title>Blog | Oak Harbor Web Designs</title>
+349: <a class="cs-li-link cs-active" href="/blog/">Blog</a>
+366: <span class="cs-int-title">Blog</span>
+422: <div class="blog-container main-content-wrapper">
+423: <div class="main-content">
+424: <article class="recent-articles">
+425: <picture class="blog-mainImage">
+426: <img alt="two certificates for best of whidbey 2025" decoding="async" height="400" src="/assets/images/blog/whidbey.jpeg" width="795">
+428: <div class="article-group">
+429: <div class="blog-authorGroup">
+430: <picture class="blog-author-img">
+431: <img alt="house" decoding="async" height="32" src="/assets/images/ryan-p-m.webp" width="32">
+433: <span class="blog-author">Ryan Postell</span> <span class="blog-dot" aria-hidden="true">
+435: <span class="blog-date">Jan 17, 2026</span>
+437: <h2 class="blog-h1">Best Of Whidbey In Web Design & Digital Marketing 2025</h2>
+438: <p class="blog-desc">We are proud to announce we were voted 2025's Best Of Whidbey for Digital Marketing and Web Design categories. Our first award since opening in 2019 and hopefully not our last!</p>
+439: <a class="cs-button-solid" href="/blog/best-of-whidbey-digital-marketing-and-web-design/">Continue Reading</a>
+441: </article>
+444: <img alt="wordpress logo" decoding="async" height="400" src="/assets/images/blog/wp.png" width="795">
+453: <span class="blog-date">Sep 27, 2024</span>
+455: <h2 class="blog-h1">WordPress Bans WP Engine And Impacts Millions Of Websites</h2>
+456: <p class="blog-desc">Learn about the recent conflict between WordPress.org and WP Engine, why WP Engine was banned from accessing key resources, and what this means for the future of the WordPress ecosystem.</p>
+457: <a class="cs-button-solid" href="/blog/wordpress-bans-wp-engine/">Continue Reading</a>
+462: <img alt="A dark night" decoding="async" height="400" src="/assets/images/blog/dark-mode.jpg" width="795">
+471: <span class="blog-date">Sep 14, 2024</span>
+473: <h2 class="blog-h1">How to add dark mode to your website? Here is the code you need!</h2>
+474: <p class="blog-desc">Adding dark mode to your site is as easy as copy and pasting. In this article I give you the code you need to add dark mode to any website and how to start adding dark mode styles.</p>
+475: <a class="cs-button-solid" href="/blog/how-to-add-dark-mode-to-your-website/">Continue Reading</a>
+480: <img alt="A speedometer approaching 100 km/h" decoding="async" height="400" src="/assets/images/blog/speed.jpg" width="795">
+489: <span class="blog-date">Sep 18, 2021</span>
+491: <h2 class="blog-h1">How to optimize a website's Core Vitals and Page Speed Score</h2>
+492: <p class="blog-desc">Google's new Core Vitals metrics are changing how sites get ranked based on and optimized mobile experience. I will show you everything you need to know about how to satisfy these new metrics and get 95+ scores on speed and performance for hand made HTML and CSS websites. These can also apply to any website regardless on how it's built.</p>
+493: <a class="cs-button-solid" href="/blog/how-to-optimize-a-website/">Continue Reading</a>
+498: <img alt="A lightbulb in a thought bubble drawn on a whiteboard" decoding="async" height="400" src="/assets/images/blog/design.jpg" width="795">
+507: <span class="blog-date">Apr 19, 2021</span>
+509: <h2 class="blog-h1">How to design a website for beginners</h2>
+510: <p class="blog-desc">In this article I discuss how to create a repeatable process for web design that you can use for each new site. This is for everyone who ever just stared into their screen wondering how the heck they start a website design....</p>
+511: <a class="cs-button-solid" href="/blog/how-to-design-a-website/">Continue Reading</a>
+516: <img alt="A laptop next to a collection of mobile devices" decoding="async" height="400" src="/assets/images/blog/mobile-first.jpg" width="795">
+525: <span class="blog-date">Apr 10, 2021</span>
+527: <h2 class="blog-h1">How to build a mobile first and responsive website from scratch in html and css.</h2>
+528: <p class="blog-desc">If you’re going to build a website now a days, your number one focus should be making sure it’s responsive and adaptable to all screen sizes. This is because Google has made announcements that all websites that are responsive will rank better because of better load times, better usability, and will be preferred in mobile searches....</p>
+529: <a class="cs-button-solid" href="/blog/how-to-build-a-responsive-mobile-first-website-from-scratch/">Continue Reading</a>
+534: <img alt="Lines of code on a computer" decoding="async" height="400" src="/assets/images/blog/wordpress.jpg" width="795">
+543: <span class="blog-date">Mar 7, 2021</span>
+545: <h2 class="blog-h1">What is the difference between hand coded websites and Wordpress sites?</h2>
+546: <p class="blog-desc">What makes the websites I build special and unique compared to using a page builder like Wordpress? It all comes down to how they are made, and how that affects load times, user retention, and your search rankings...</p>
+547: <a class="cs-button-solid" href="/blog/what-is-the-difference-between-hand-coded-websites-and-wordpress-sites/">Continue Reading</a>
+552: <img alt="Red and white christmas cards" decoding="async" height="400" src="/assets/images/blog/christmas.jpg" width="795">
+561: <span class="blog-date">Dec 25, 2020</span>
+563: <h2 class="blog-h1">Christmas Yearly Recap</h2>
+564: <p class="blog-desc">I am happy to say that this year I have lots of holiday cards to send my clients! When I opened for business in the middle of 2019 I only had 3 Christmas cards to send. But at the end of 2020 I now have 27 to mail out...</p>
+565: <a class="cs-button-solid" href="/blog/christmas-yearly-recap/">Continue Reading</a>
+569: <div class="blog-sidebar">
+570: <div class="blog-featured-group">
+571: <span class="blog-header">Featured Posts</span>
+572: <a class="blog-feature" href="/blog/best-of-whidbey-digital-marketing-and-web-design/">
+573: <picture class="blog-featureImage">
+574: <img alt="two certificates for best of whidbey 2025" decoding="async" height="60" src="/assets/images/blog/whidbey.jpeg" width="60">
+576: <div class="content-group">
+577: <h3 class="feature-h3">Best Of Whidbey In Web Design & Digital Marketing 2025</h3>
+578: <span class="feature-date">Jan 17, 2026</span>
+581: <a class="blog-feature" href="/blog/wordpress-bans-wp-engine/">
+583: <img alt="wordpress logo" decoding="async" height="60" src="/assets/images/blog/wp.png" width="60">
+586: <h3 class="feature-h3">WordPress Bans WP Engine And Impacts Millions Of Websites</h3>
+587: <span class="feature-date">Sep 27, 2024</span>
+590: <a class="blog-feature" href="/blog/how-to-add-dark-mode-to-your-website/">
+592: <img alt="A dark night" decoding="async" height="60" src="/assets/images/blog/dark-mode.jpg" width="60">
+595: <h3 class="feature-h3">How to add dark mode to your website? Here is the code you need!</h3>
+596: <span class="feature-date">Sep 14, 2024</span>
+599: <a class="blog-feature" href="/blog/how-to-build-a-responsive-mobile-first-website-from-scratch/">
+601: <img alt="A laptop next to a collection of mobile devices" decoding="async" height="60" src="/assets/images/blog/mobile-first.jpg" width="60">
+604: <h3 class="feature-h3">How to build a mobile first and responsive website from scratch in html and css.</h3>
+605: <span class="feature-date">Apr 10, 2021</span>
+609: <div class="cs-codestitch">
+611: <source media="(max-width: 600px)" srcset="/assets/images/codestitch2-5a20ab22ac8296740a42af4ae5af9cd2.avif" type="image/avif">
+612: <source media="(max-width: 600px)" srcset="/assets/images/codestitch2-c51691b7c56b59bab8c106967f45fc20.webp" type="image/webp">
+613: <source media="(max-width: 600px)" srcset="/assets/images/codestitch2-7d8b58d46bad832d4015dba9230b87c9.jpeg" type="image/jpeg">
+614: <source media="(max-width: 1024px)" srcset="/assets/images/codestitch2-1df9b2dbc4f1a8ac84c0603f2808aaf9.avif" type="image/avif">
+615: <source media="(max-width: 1024px)" srcset="/assets/images/codestitch2-57ff065727aa1aed79f9a0a1fc1d9eef.webp" type="image/webp">
+616: <source media="(max-width: 1024px)" srcset="/assets/images/codestitch2-0b73c2e1c0ae522597931bea57a856a8.jpeg" type="image/jpeg">
+617: <source media="(min-width: 1024px)" srcset="/assets/images/codestitch2-1df9b2dbc4f1a8ac84c0603f2808aaf9.avif" type="image/avif">
+618: <source media="(min-width: 1024px)" srcset="/assets/images/codestitch2-57ff065727aa1aed79f9a0a1fc1d9eef.webp" type="image/webp">
+619: <source media="(min-width: 1024px)" srcset="/assets/images/codestitch2-0b73c2e1c0ae522597931bea57a856a8.jpeg" type="image/jpeg">
+620: <img alt="codestitch logo" decoding="async" height="198" src="/assets/images/codestitch2-0b73c2e1c0ae522597931bea57a856a8.jpeg" width="360" aria-hidden="true" loading="lazy">
+623: <h3 class="cs-h3">Are You A Developer? Try Out Our HTML & CSS Template Library</h3>
+624: <a class="cs-button-solid" href="https://codestitch.app/" target="_blank">Visit Codestitch</a>
+
+FILE live-blog_best-of-whidbey-digital-marketing-and-web-design-readable.html
+7: <meta content="We are proud to announce we were voted 2025's Best Of Whidbey for Digital Marketing and Web Design categories. Our first award since opening in 2019 and hopefully not our last!" name="description">
+9: <link href="https://oakharborwebdesigns.com/blog/best-of-whidbey-digital-marketing-and-web-design/" rel="canonical">
+11: <meta content="Best Of Whidbey In Web Design & Digital Marketing 2025" property="og:title">
+12: <meta content="We are proud to announce we were voted 2025's Best Of Whidbey for Digital Marketing and Web Design categories. Our first award since opening in 2019 and hopefully not our last!" property="og:description">
+14: <meta content="https://oakharborwebdesigns.com/blog/best-of-whidbey-digital-marketing-and-web-design/" property="og:url">
+28: <link href="/assets/images/blog/whidbey.jpeg" rel="preload" as="image">
+40: <script defer src="/assets/js/prism.js">
+42: <script type="application/ld+json">{
+43:             "@context": "https://schema.org",
+44:             "@type": "Article",
+45:             "headline": "Best Of Whidbey In Web Design &amp; Digital Marketing 2025",
+46:             
+47:                 "image": ["/assets/images/blog/whidbey.jpeg"],
+49:             "datePublished": "Jan 17, 2026",
+51:                 "publisher": {
+52:                     "@type": "Organization",
+53:                     "name": "Oak Harbor Web Designs"
+54:                 },
+57:                 "author": [
+58:                     {
+59:                         "@type": "Person",
+60:                         "name": "Ryan Postell"
+61:                     }
+62:                 ],
+64:             "articleBody": "We are proud to announce we were voted 2025's Best Of Whidbey for Digital Marketing and Web Design categories. Our first award since opening in 2019 and hopefully not our last!",
+65:             "url": "https://oakharborwebdesigns.com/blog/best-of-whidbey-digital-marketing-and-web-design/",
+66:             "articleSection": "sitemap,post,post,featured"
+67:         }</script>
+68: <title>Best Of Whidbey In Web Design & Digital Marketing 2025</title>
+452: <article class="blog-article">
+457: <h1 class="blog-h1">Best Of Whidbey In Web Design & Digital Marketing 2025</h1>
+467: <section id="blog-content">
+468: <p>We decided to submit ourselves for consideration for Best of Whidbey 2025 in our local market of Whidbey Island, Washington. We gathered enough votes to make it on the ballot and then got even more votes to win both our categories for Best In Web Design and Best In Digital Marketing the first year we were eligible.</p>
+469: <p>We are very proud of the work we've done over the last 7 years and thankful to all our previous clients from all over the country who voted for us and showed their support for us when we needed them. So now whenever anyone talks about Oak Harbor Web Designs, they can say "Oh you mean the <em>award winning</em> Oak Harbor Web Designs?" Yup, that's the one!</p>
+470: <p>Looking forward to seeing what we can do in 2026!</p>
+
+FILE live-contact-readable.html
+7: <meta content="Send us an email and let us know everything you want out of a new site. We respond to everyone within 24 hours of contacting us. Or give us a call and reach us immediately for a chat. If we are unavailable we will call back same day." name="description">
+9: <link href="https://oakharborwebdesigns.com/contact/" rel="canonical">
+11: <meta content="Contact | Oak Harbor Web Designs" property="og:title">
+12: <meta content="Send us an email and let us know everything you want out of a new site. We respond to everyone within 24 hours of contacting us. Or give us a call and reach us immediately for a chat. If we are unavailable we will call back same day." property="og:description">
+14: <meta content="https://oakharborwebdesigns.com/contact/" property="og:url">
+37: <link href="/assets/css/contact.css" rel="stylesheet">
+39: <title>Contact | Oak Harbor Web Designs</title>
+46: <img alt="logo" aria-hidden="true" class="cs-default" decoding="async" height="43" src="/assets/images/logo.svg" width="197"> <img alt="logo" aria-hidden="true" class="cs-onscroll" decoding="async" height="43" src="/assets/images/logo-white.svg" width="197" loading="lazy">
+66: <span class="cs-li-link">About Us <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+81: <span class="cs-li-link">Services <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+99: <span class="cs-li-link cs-dropdown-toggle">Top Locations <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+103: <span class="cs-li-link cs-drop-link">Washington <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+136: <span class="cs-li-link cs-drop-link">Indiana <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+196: <span class="cs-li-link cs-drop-link">Illinois <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+223: <span class="cs-li-link cs-drop-link">Texas <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+256: <span class="cs-li-link cs-drop-link">California <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+295: <span class="cs-li-link cs-drop-link">New York <img alt="dropdown icon" aria-hidden="true" class="cs-drop-icon" decoding="async" height="15" src="/assets/images/down.svg" width="15">
+351: <a class="cs-li-link cs-active" href="/contact/">Contact</a>
+358: <img alt="moon" aria-hidden="true" class="cs-moon" decoding="async" height="15" src="/assets/svgs/moon.svg" width="15"> <img alt="sun" aria-hidden="true" class="cs-sun" decoding="async" height="15" src="/assets/svgs/sun.svg" width="15">
+365: <span class="cs-int-title">Contact Us</span>
+373: </span> <img alt="icon" aria-hidden="true" class="satellite" decoding="async" height="20" src="/assets/images/satellite.svg" width="20"> <span class="star star1">
+389: <img alt="icon" aria-hidden="true" class="satellite" decoding="async" height="20" src="/assets/images/satellite.svg" width="20"> <span class="star star1">
+421: <section id="contact-1388">
+424: <span class="cs-topper">Contact Us</span>
+425: <h2 class="cs-title">Get in Touch</h2>
+426: <p class="cs-text">Send us an email and let us know everything you want out of a new site. We respond to everyone within 24 hours of contacting us. Or give us a call and reach us immediately for a chat. If we are unavailable we will call back same day.</p>
+429: <picture class="cs-icon-wrapper">
+430: <img alt="phone icon" aria-hidden="true" class="cs-icon" decoding="async" height="40" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/phone-76.svg" width="40">
+433: <span class="cs-header">Phone</span> <a class="cs-link" href="tel:219-576-2539">(219) 576-2539</a>
+438: <img alt="address icon" aria-hidden="true" class="cs-icon" decoding="async" height="40" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/mail-76.svg" width="40">
+441: <span class="cs-header">Email</span> <a class="cs-link" href="mailto:ohwdinfo@gmail.com">Click To Email</a>
+446: <img alt="address icon" aria-hidden="true" class="cs-icon" decoding="async" height="40" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Icons/pin-76.svg" width="40">
+449: <span class="cs-header">Areas Served</span> <span class="cs-link">USA & Canada</span>
+454: <form class='cs-form' data-netlify-recaptcha='true' id='cs-form-1388' method='post' name='Contact Form'>
+455: <input type='hidden' name='form-name' value='Contact Form' />
+456: <h3 class="cs-h3">Make Appointment</h3>
+457: <label class="cs-label">Name <input class="cs-input" id="name-1388" name="name" placeholder="Name" required type="text">
+458: </label> <label class="cs-label cs-email">Email <input class="cs-input" id="email-1388" name="email" placeholder="Email" required type="email">
+459: </label> <label class="cs-label cs-phone">Phone <input class="cs-input" id="phone-1388" name="phone" placeholder="Phone" required type="tel">
+460: </label> <label class="cs-label">Message <textarea class="cs-input cs-textarea" id="message-1388" name="Message" placeholder="Write message..." required>
+461: </textarea>
+462: </label>
+463: <div>
+464: <script src='https://www.google.com/recaptcha/api.js'>
+466: <div class='g-recaptcha' data-sitekey='6LdnkKEqAAAAAPvyqoRAmjXxvE6evlb5z-5Ol90Y'>
+468: <noscript>
+469:   <div>
+470:   <div style="width: 302px; height: 422px; position: relative;">
+471:   <div style="width: 302px; height: 422px; position: absolute;">
+472:   <iframe src="https://www.google.com/recaptcha/api/fallback?k=6LdnkKEqAAAAAPvyqoRAmjXxvE6evlb5z-5Ol90Y" frameborder="0" scrolling="no"
+473:     style="width: 302px; height:422px; border-style: none;">
+474:   </iframe>
+475:   </div>
+477:   <div style="width: 300px; height: 60px; border-style: none; bottom: 12px; left: 25px; margin: 0px; padding: 0px; right: 25px; background: #f9f9f9; border: 1px solid #c1c1c1; border-radius: 3px;">
+478:     <textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response"
+479:       style="width: 250px; height: 40px; border: 1px solid #c1c1c1; margin: 10px 25px; padding: 0px; resize: none;" >
+480:     </textarea>
+483: </noscript>
+485: <button class="cs-button-solid cs-submit" type="submit">Send Message</button>
+486: </form>
+488: <img alt="icon" aria-hidden="true" class="cs-trees cs-light" decoding="async" height="837" src="/assets/images/footer-trees.svg" width="887" loading="lazy"> <img alt="icon" aria-hidden="true" class="cs-trees cs-dark" decoding="async" height="837" src="/assets/images/trees-dark.svg" width="887" loading="lazy"> <svg class="cs-blue-shape" fill="none" viewbox="0 0 1920 240" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+489: <path d="M1920 240H0C319.833 164.417 1023.43 10.747 1279.16.736 1534.9-9.275 1812.94 85.329 1920 133.883V240Z" fill="var(--csBlueShape)"/>
+497: <img alt="logo" aria-hidden="true" class="cs-logo-img" decoding="async" height="32" src="/assets/images/logo-white.svg" width="240" loading="lazy">
+536: <img alt="clock icon" aria-hidden="true" class="cs-icon" decoding="async" height="20" src="/assets/images/clock-grey.svg" width="20" loading="lazy"> 24/7</span>
+540: <img alt="phone icon" aria-hidden="true" class="cs-contact-icon" decoding="async" height="20" src="/assets/images/phone-grey.svg" width="20" loading="lazy"> (219) 576-2539</a>
+544: <img alt="email icon" aria-hidden="true" class="cs-icon" decoding="async" height="20" src="/assets/images/message-grey.svg" width="20" loading="lazy"> ohwdinfo@gmail.com</a>
+548: <img alt="pin icon" aria-hidden="true" class="cs-icon" decoding="async" height="20" src="/assets/images/pin-grey.svg" width="20" loading="lazy"> United States</span>
+
+FILE live-faq-readable.html
+7: <meta content="Find answers to any questions you have about our pricing, web design and seo packages, work, and process." name="description">
+9: <link href="https://oakharborwebdesigns.com/faq/" rel="canonical">
+11: <meta content="FAQ | Oak Harbor Web Designs" property="og:title">
+12: <meta content="Find answers to any questions you have about our pricing, web design and seo packages, work, and process." property="og:description">
+14: <meta content="https://oakharborwebdesigns.com/faq/" property="og:url">
+37: <link href="/assets/css/faq.css" rel="stylesheet">
+39: <script defer src="/assets/js/faq.js">
+41: <title>FAQ | Oak Harbor Web Designs</title>
+44: <a href="#main" class="skip" aria-label="skip to main content">Click To Skip To Main Content</a>
+47: <a href="/" class="cs-logo" aria-label="back to home">
+48: <img alt="logo" aria-hidden="true" decoding="async" height="43" src="/assets/images/logo.svg" width="197" class="cs-default"> <img alt="logo" aria-hidden="true" decoding="async" height="43" src="/assets/images/logo-white.svg" width="197" class="cs-onscroll" loading="lazy">
+54: <button class="cs-toggle" aria-label="mobile menu toggle">
+65: <a href="/" class="cs-li-link">Home</a>
+68: <span class="cs-li-link">About Us <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+72: <a href="/about/" class="cs-li-link cs-drop-link">About Us</a>
+75: <a href="/faq/" class="cs-li-link cs-drop-link">Faq</a>
+78: <a href="/reviews/" class="cs-li-link cs-drop-link">Reviews</a>
+83: <span class="cs-li-link">Services <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+87: <a href="/web-design/" class="cs-li-link cs-drop-link">Web Design</a>
+90: <a href="/seo-services/" class="cs-li-link cs-drop-link">SEO</a>
+93: <a href="/google-ppc-services/" class="cs-li-link cs-drop-link">Google PPC Ads</a>
+96: <a href="/white-label-partnerships/" class="cs-li-link cs-drop-link">White Label Partnerships</a>
+101: <span class="cs-li-link cs-dropdown-toggle">Top Locations <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+105: <span class="cs-li-link cs-drop-link">Washington <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+109: <a href="/anacortes/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Anacortes</a>
+112: <a href="/burlington/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Burlington</a>
+115: <a href="/coupeville/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Coupeville</a>
+118: <a href="/everett/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Everett</a>
+121: <a href="/freeland/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Freeland</a>
+124: <a href="/langley/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Langley</a>
+127: <a href="/marysville/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Marysville</a>
+130: <a href="/web-design/" class="cs-li-link cs-drop-link cs-drop-link3">Oak Harbor</a>
+133: <a href="/port-townsend/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Port Townsend</a>
+138: <span class="cs-li-link cs-drop-link">Indiana <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+142: <a href="/chesterton/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Chesterton</a>
+145: <a href="/crown-point/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Crown Point</a>
+148: <a href="/fort-wayne/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Fort Wayne</a>
+151: <a href="/griffith/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Griffith</a>
+154: <a href="/hammond/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Hammond</a>
+157: <a href="/highland/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Highland</a>
+160: <a href="/hobart/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Hobart</a>
+163: <a href="/lafayette/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">lafayette</a>
+166: <a href="/laporte/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">La Porte</a>
+169: <a href="/merrillville/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Merrillville</a>
+172: <a href="/michigan-city/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Michigan City</a>
+175: <a href="/munster/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Munster</a>
+178: <a href="/portage/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Portage</a>
+181: <a href="/schererville/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Schererville</a>
+184: <a href="/south-bend/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">South Bend</a>
+187: <a href="/valparaiso/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Valparaiso</a>
+190: <a href="/warsaw/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Warsaw</a>
+193: <a href="/whiting/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Whiting</a>
+198: <span class="cs-li-link cs-drop-link">Illinois <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+202: <a href="/lansing/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Lansing</a>
+205: <a href="/chicago/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Chicago</a>
+208: <a href="/chicago-heights/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Chicago Heights</a>
+211: <a href="/oak-park/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Oak Park</a>
+214: <a href="/south-holland/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">South Holland</a>
+217: <a href="/orland-park/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Orland Park</a>
+220: <a href="/rockford/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Rockford</a>
+225: <span class="cs-li-link cs-drop-link">Texas <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+229: <a href="/austin/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Austin</a>
+232: <a href="/south-austin/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">South Austin</a>
+235: <a href="/east-austin/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">East Austin</a>
+238: <a href="/north-austin/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">North Austin</a>
+241: <a href="/bouldin-creek/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Bouldin Creek</a>
+244: <a href="/zilker/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Zilker</a>
+247: <a href="/south-congress/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">South Congress</a>
+250: <a href="/south-lamar/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">South Lamar</a>
+253: <a href="/east-cesar-chavez/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">East Cesar Chavez</a>
+258: <span class="cs-li-link cs-drop-link">California <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+262: <a href="/los-angeles/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Los Angeles</a>
+265: <a href="/anaheim/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Anaheim</a>
+268: <a href="/long-beach/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Long Beach</a>
+271: <a href="/irvine/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Irvine</a>
+274: <a href="/huntington-beach/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Huntington Beach</a>
+277: <a href="/newport-beach/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Newport Beach</a>
+280: <a href="/riverside/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Riverside</a>
+283: <a href="/santa-barbara/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Santa Barbara</a>
+286: <a href="/torrance/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Torrance</a>
+289: <a href="/carlsbad/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Carlsbad</a>
+292: <a href="/san-bernardino/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">San Bernardino</a>
+297: <span class="cs-li-link cs-drop-link">New York <img alt="dropdown icon" aria-hidden="true" decoding="async" height="15" src="/assets/images/down.svg" width="15" class="cs-drop-icon">
+301: <a href="/new-york-city/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">New York City</a>
+304: <a href="/brooklyn/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Brooklyn</a>
+307: <a href="/manhattan/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Manhattan</a>
+310: <a href="/queens/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Queens</a>
+313: <a href="/the-bronx/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">The Bronx</a>
+316: <a href="/staten-island/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Staten Island</a>
+319: <a href="/harlem/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Harlem</a>
+322: <a href="/long-island/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Long Island</a>
+325: <a href="/yonkers/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Yonkers</a>
+328: <a href="/white-plains/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">White Plains</a>
+331: <a href="/buffalo/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Buffalo</a>
+334: <a href="/albany/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Albany</a>
+337: <a href="/rochester/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Rochester</a>
+340: <a href="/syracuse/small-business-web-designer/" class="cs-li-link cs-drop-link cs-drop-link3">Syracuse</a>
+347: <a href="/pricing/" class="cs-li-link">Pricing</a>
+350: <a href="/blog/" class="cs-li-link">Blog</a>
+353: <a href="/contact/" class="cs-li-link">Contact</a>
+358: <a href="/contact" class="cs-button-solid">Get Started</a>
+360: <img alt="moon" aria-hidden="true" decoding="async" height="15" src="/assets/svgs/moon.svg" width="15" class="cs-moon"> <img alt="sun" aria-hidden="true" decoding="async" height="15" src="/assets/svgs/sun.svg" width="15" class="cs-sun">
+367: <span class="cs-int-title">FAQ'S</span>
+375: </span> <img alt="icon" aria-hidden="true" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" class="satellite"> <span class="star star1">
+391: <img alt="icon" aria-hidden="true" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" class="satellite"> <span class="star star1">
+423: <section id="faq-2066">
+426: <span class="cs-topper">Frequently Asked Questions</span>
+427: <h2 class="cs-title">Frequently Asked Questions</h2>
+428: <p class="cs-text">Browse our FAQ page for answers to everything you would like to know about what we do, what we charge, our process, and how everything works.</p>
+431: <div class="cs-button-group">
+432: <button class="cs-option" data-filter="one">Pricing & Payments</button> <button class="cs-option" data-filter="two">Plans</button> <button class="cs-option" data-filter="three">SEO</button> <button class="cs-option" data-filter="four">Websites</button>
+435: <ul class="cs-faq-group" data-category="one">
+436: <li class="cs-faq-item">
+437: <button class="cs-button">
+438: <span class="cs-button-text">How long does the subscription last?</span>
+440: <p class="cs-item-p">The subscription plan lasts for a minimum of 12 months and is month to month after that. Cancel anytime after the 12 months have passed. If you cancel, you don’t keep the site (otherwise everyone would just do that and we'd be out of business!).</p>
+444: <span class="cs-button-text">What happens if I cancel after the 12 month minimum and want to come back?</span>
+446: <p class="cs-item-p">You just have to sign a new 12 month contract.</p>
+450: <span class="cs-button-text">What happens if I cancel before the 12 months is over?</span>
+452: <p class="cs-item-p">If you cancel before the 12 months, you owe the full cost of what the site would normally cost ($3800) minus whatever you already paid. We prioritize long term relationships with our clients. And we want clients to share the same philosophy.</p>
+456: <span class="cs-button-text">How do you handle late payments?</span>
+458: <p class="cs-item-p">Every invoice comes with a 7 day grace period to be paid. If an invoice is not paid within 7 days, there will be a $25 late fee applied. If you're on a subscription, and there are multiple monthly invoices that are overdue for months and late for months, we can cancel the contract and the client will be responsible for paying the full price of the site. We are generally very flexible and understanding of certain situations and often times offer assistance and help. But if there is no communication or replies to our messages, we have to take certain precautions to make sure we are paid for our time and effort in making the site and not being taken advantage of.</p>
+462: <span class="cs-button-text">What do you use to take payment and what payment methods do you accept?</span>
+464: <p class="cs-item-p">We send email invoices via Square that has a link to a secure page for adding payment info. Subscriptions are paid with a credit card or debt card and we accept all major credit cards. Lump sum projects are paid with ACH bank transfer to minimize processing fees. WE DO NOT ACCEPT CHECKS OR MONEY ORDERS.</p>
+468: <span class="cs-button-text">$100 per additional page, is that one time or monthly?</span>
+470: <p class="cs-item-p">The $100 per additional page fee is one time. Not recurring. So if you need 3 extra pages, that’s $300 and you’re done. Not $300 a month. That would be crazy!</p>
+474: <span class="cs-button-text">Are there refunds?</span>
+476: <p class="cs-item-p">When you sign a contract, either lump sum or subscription, if we cannot design something you are 100% happy with and no longer want to move forward, then we will refund whatever you paid to get started. If we do end up moving forward with building the site, there are no refunds after that point. From then on, refunds are at our discretion.</p>
+479: <ul class="cs-faq-group cs-hidden" data-category="two">
+482: <span class="cs-button-text">On subscriptions, once I’m done with the 12 month minimum, do I continue paying after that?</span>
+484: <p class="cs-item-p">Yes, subscriptions are indefinite. You keep paying every month after the 12 month minimum. It generally takes us 2-3 years to make what we would have made if we sold a lump sum site. So ideally we'd like to have clients last at least 5 years to make getting paid over that period of time worth the wait and financially viable. And at that point, the website will be generating more than $175 a month in value for the client, so the site will essentially be paying for itself at that point and we hope our clients continue to see the value in the work we do to keep paying every month so we can continue to do what we do.</p>
+488: <span class="cs-button-text">Can I buy out of my subscription after the subscription minimum has passed?</span>
+490: <p class="cs-item-p">No, there is no buyout price to stop paying on the monthly package. As noted in another question, it takes 2-3 years including hosting fees to make what we would have made on a lump sum site. We have this rule because subscriptions really only work out financially if a client stays for 5+ years to be beneficial enough to wait that long for payment. It’s not feasible to be waiting 2 years or so for full payment on every site and then have to replace that monthly subscription. It’s much more beneficial to have just been paid in full up front from the start. We also rely on this monthly recurring income for consistent and reliable income so we don’t have to sell sell sell every month to pay the bills and we can spend more time working on our clients sites and spending time on their support calls and emails. Doing this allows us to be more hands on with our clients and provide a better service than any other agency. So if we had clients buying out of their subscriptions every month, we’d end up having to sell more and more to replace that income and the model begins to break down, and then so does our service.</p>
+494: <span class="cs-button-text">Can I add unlimited edits and support to the lump sum package?</span>
+496: <p class="cs-item-p">Yes! We offer $50 a month subscription add on for unlimited edits and support. These are done with a 12 month minimum commitment as well. There's no turning it on and off every other month. Once you end it, if you want to reinstate, it you’ll need to sign another 12 month commitment.</p>
+500: <span class="cs-button-text">So what’s the difference between lump sum and subscription?</span>
+502: <p class="cs-item-p">The biggest difference is long term versus short term costs. On subscription, you’ll be paying more over time but it will be in small manageable and affordable monthly payments. The lump sum just gets it all out the way in the beginning and you save more money over the long run because you also paid for the design and development up front. So when deciding which package to choose, it all depends on cash flow and long term versus short term goals. If you don’t want to spend that much up front and value the service that comes with it, then the monthly is your best option. If you don't want or need the monthly service packages, you can get it all out the way up front and save money over the long term.</p>
+506: <span class="cs-button-text">Is SEO part of your packages?</span>
+508: <p class="cs-item-p">Yes and no. SEO is comprised of two parts - On-page and Off-page. On-page SEO is everything ON the page like your content, load times, accessibility, and arrangement. Off-page is everything OFF the site like link building, guest posting, citations, etc. We do some on-page SEO with our packages such as incredibly fast load times, accessibility, your meta tags, google search console, sitemap generation, and some content creation. But that’s not the whole story. SEO is more than that. It’s an active and on-going process and that’s what our SEO partner Adam Gingery takes care of, but he is separate from our website packages. If you’d like to have professional SEO work done, let us know and we will happily connect you with Adam to go over his work, plans, and pricing.</p>
+512: <span class="cs-button-text">Do you offer e-commerce sites under the subscription plan?</span>
+514: <p class="cs-item-p">No we do not. E-commerce is a lot more work to set up than a regular business site. Since it has such high costs, we cannot afford to set them up for $175 a month.</p>
+518: <span class="cs-button-text">If I cancel a subscription, do I keep my domain?</span>
+520: <p class="cs-item-p">Yes, you always own your domain. We never take hostages!</p>
+523: <ul class="cs-faq-group cs-hidden" data-category="three">
+526: <span class="cs-button-text">What are your rates for SEO?</span>
+528: <p class="cs-item-p">Our SEO specialists rates vary from project to project because of the scope of work. The more you want done, the more it will cost. Generally, the minimum base package is $700 a month to start and goes up from there based on how aggressive you want to be in your strategy.</p>
+532: <span class="cs-button-text">Does SEO actually work?</span>
+534: <p class="cs-item-p">Yes it does! I’m sure it sounds biased coming from us, but GOOD SEO does work, especially if you’re in a competitive market because you’re going to need a lot of help to show up in the front page results against companies with dozens of pages, hundreds of backlinks, ranking for hundreds of keywords, and in multiple locations. SEO is not a short term switch you flip and it starts working. It’s a long term investment and strategy that takes time (6-12 months sometimes) to see its results.</p>
+538: <span class="cs-button-text">Can you get me to the front page in less than a month?</span>
+540: <p class="cs-item-p">Nope! And unless your site was featured in the New York Times or other large publications then you aren’t shooting to the top of the results in a month. You’ll get calls from spammers saying they can rank your site as #1 in less than 3 months. Just know that if it were that easy and guaranteed, then we’d all be number 1. Smaller markets might be easier to rank in a few months time. But it’s all up to Google. We can do everything right, but in the end it’s up to them and how fast or slow the site will rank and the competition you have in the area. We have plenty of case studies on current clients who are succeeding and doing very well that we can share as well and how long it took them to start ranking high.</p>
+544: <span class="cs-button-text">What do you do for SEO exactly?</span>
+546: <p class="cs-item-p">Our SEO expert has an extensive background in copywriting that drives their focus on delivering high-quality website content. They prioritize value over SEO tricks, ensuring that every page we create contributes meaningfully rather than adding to online clutter. As Google’s algorithms get smarter, well-crafted content becomes essential. They also take a hands-on approach, writing all website copy themselves, blending SEO expertise with their strong writing skills to create content that resonates with both search engines and people.</p>
+547: <p class="cs-item-p">In a nutshell, content is the core of SEO. Your website content should directly address the questions your potential clients have. This approach achieves two key outcomes: users see you as an expert and reach out for your services, and Google recognizes your site’s authority, boosting your rankings. With extensive experience in crafting successful content strategies for various businesses, our SEO expert is equipped to do the same for you.</p>
+551: <span class="cs-button-text">Do you also run PPC ads?</span>
+553: <p class="cs-item-p">Yes! Google ads go hand in hand with our SEO strategies and are a great way to gain leads in the short term while our SEO strategies build up over the long term. Our SEO and ads expert has extensive experience in the industry working with budgets for smaller businesses and larger businesses, as well as Fortune 500 companies spending millions per year on advertising.</p>
+557: <span class="cs-button-text">Do you offer SEO audits?</span>
+559: <p class="cs-item-p">Yes, our SEO expert Adam will use their various tools to identify every possible issue with your website and all possible areas of improvement that they see. Sometimes issues are small and easy fixes, and other times it could be more extensive. Regardless, a proper SEO audit is the first step when working with us for any SEO campaigns, because no matter how good the content is or how many backlinks you have, it won’t matter if the site has fundamental flaws in its development and code that will prevent or reduce any SEO efforts. We need to identify these problems from the beginning so we can ensure that every part of your website is running flawlessly.</p>
+563: <span class="cs-button-text">How long does SEO take to see its effects?</span>
+565: <p class="cs-item-p">SEO is a long term strategy and investment. You won’t see its returns immediately. Generally we like to allow 6-12 months to see the benefits of our campaigns and sometimes they can happen in less time. But it will not be an overnight raging success. It takes time and effort to get there. The competition will have websites that have been online for 10+ years and have built a reputation with Google over that time. Starting out as a new site means you have to build up that trust with Google if you want to take over those top spots. You can’t just kick down the door and say “hey Google, look at me!. Ignore your friends. I’m here to replace them”. We need to spend time and build your authority with google so that over time we can be as trusted as the others and overtake them.</p>
+568: <ul class="cs-faq-group cs-hidden" data-category="four">
+571: <span class="cs-button-text">How long does the process take from start to finish?</span>
+573: <p class="cs-item-p">We generally finish a website from start to finish within 2-4 weeks and is all dependent on how soon clients respond to our content and image requests as well as the availability of our designers and developers. Sometimes it can be 2 weeks, sometimes 3.</p>
+577: <span class="cs-button-text">Do I keep my site if I cancel the subscription?</span>
+579: <p class="cs-item-p">No, otherwise everyone would do that and we go out of business! But you keep your domain and assets.</p>
+583: <span class="cs-button-text">Do we own our domain?</span>
+585: <p class="cs-item-p">Yes. We don’t take hostages. Even if we bought the domain for you, when you cancel your subscription with us we transfer the domain to you.</p>
+589: <span class="cs-button-text">Do you use Wordpress or any builders?</span>
+591: <p class="cs-item-p">Nope! Everything we make is built with custom hand written code. No page builders here. That is what separates us from the others - we put the time and effort to do things differently and it shows in our work and our clients online presence after launch.</p>
+595: <span class="cs-button-text">Why custom code over Wordpress? What are the advantages?</span>
+597: <p class="cs-item-p">Security, load times, maintainability, lower costs, easier to customize, less bloat because we don’t need plugins for everything, we never need to update anything like you need to constantly update your Wordpress version otherwise you get hacked and your site redirects to a Chinese gambling site, and we're more responsive. To go into more detail about security, our custom coded sites have no databases or anything so there’s nothing to hack. Our sites are more secure without needing constant updates to be on top of or constant attacks from online hackers trying to barge in. Theres nowhere for them to barge into on our sites no matter how hard they try.</p>
+601: <span class="cs-button-text">What happens to my site if something happens to you? Are there fail safes?</span>
+603: <p class="cs-item-p">Yup! If somewhere were to happen to me (the owner and operator), we have our dev partners in the UK, US, and Canada who know our operations inside and out and have reigned for years to work the way I work and have access to all the logins and tools we use. So if something happens to me, Ethan Hawes takes over. If something happens to him, our partner Alyse Garcia will take over, and then Matt Barbuzzi in Canada is next in line. And if something happens to him, RUN. We’re clearly cursed, something is coming and I fear you’re next.</p>
+607: <span class="cs-button-text">How do we request edits for our site?</span>
+609: <p class="cs-item-p">You send an email to <a href="mailto:ohwdinfo@gmail.com">ohwdinfo@gmail.com</a> and it will go into our ticketing system where I and my team can read and fulfill them and mark as solved.</p>
+617: <div class="cs-bubbles cs-bubbles2" aria-hidden="true">
+625: <a href="/contact" class="cs-button-solid cs-secondary">Get Started Today</a>
+632: <img alt="graphic" aria-hidden="true" decoding="async" height="132" src="/assets/images/lights-m.svg" width="275" loading="lazy">
+661: <a href="/" class="cs-logo" aria-label="go back to home">
+662: <img alt="logo" aria-hidden="true" decoding="async" height="32" src="/assets/images/logo-white.svg" width="240" class="cs-logo-img" loading="lazy">
+668: <a href="/contact/" class="cs-button-solid cs-white">Get Started Today</a>
+674: <a href="/" class="cs-link">Home</a>
+677: <a href="/about/" class="cs-link">About</a>
+680: <a href="/reviews/" class="cs-link">Reviews</a>
+683: <a href="/blog/" class="cs-link">Blog</a>
+686: <a href="/web-design/" class="cs-link">Web Design</a>
+689: <a href="/seo-services/" class="cs-link">SEO</a>
+692: <a href="/google-ppc-services/" class="cs-link">Google PPC Ads</a>
+701: <img alt="clock icon" aria-hidden="true" decoding="async" height="20" src="/assets/images/clock-grey.svg" width="20" class="cs-icon" loading="lazy"> 24/7</span>
+704: <a href="tel:219-576-2539" class="cs-link">
+705: <img alt="phone icon" aria-hidden="true" decoding="async" height="20" src="/assets/images/phone-grey.svg" width="20" class="cs-contact-icon" loading="lazy"> (219) 576-2539</a>
+708: <a href="mailto:ohwdinfo@gmail.com" class="cs-link">
+709: <img alt="email icon" aria-hidden="true" decoding="async" height="20" src="/assets/images/message-grey.svg" width="20" class="cs-icon" loading="lazy"> ohwdinfo@gmail.com</a>
+713: <img alt="pin icon" aria-hidden="true" decoding="async" height="20" src="/assets/images/pin-grey.svg" width="20" class="cs-icon" loading="lazy"> United States</span>
+722: <a href="/privacy-policy/" class="cs-bottom-link">Privacy Policy</a> <a href="/terms-of-service/" class="cs-bottom-link">Terms Of Use</a>
+
+FILE live-home-readable.html
+7: <meta content="We are a different kind of web design agency - we hand code all our sites without using clunky page builders. With our superior websites, SEO, and Google Ads team we can help grow your small business and get more online leads." name="description">
+9: <link href="https://oakharborwebdesigns.com/" rel="canonical">
+11: <meta content="Small Business Web Designer | Oak Harbor Web Designs | $0 Down $175 Per Month" property="og:title">
+12: <meta content="We are a different kind of web design agency - we hand code all our sites without using clunky page builders. With our superior websites, SEO, and Google Ads team we can help grow your small business and get more online leads." property="og:description">
+14: <meta content="https://oakharborwebdesigns.com/" property="og:url">
+28: <link href="" rel="preload" as="image">
+38: <link href="/assets/images/laptop-m.webp" rel="preload" as="image">
+39: <link href="/assets/css/critical.css" rel="stylesheet">
+40: <link href="/assets/css/local.css" rel="stylesheet" media="print" onload='this.media="all",this.onload=null'>
+42: <link href="/assets/css/local.css" rel="stylesheet">
+45:             "@context": "http://schema.org",
+46:             "@type": "LocalBusiness",
+47:             "name": "Oak Harbor Web Designs",
+48:             "telephone": "(219) 576-2539",
+49:             "email": "ohwdinfo@gmail.com",
+50:             "url": "https://oakharborwebdesigns.com/"
+52: <title>Small Business Web Designer | Oak Harbor Web Designs | $0 Down $175 Per Month</title>
+74: <ul class="cs-ul" id="cs-expanded" aria-expanded="false">
+76: <a class="cs-li-link cs-active" href="/">Home</a>
+376: <section id="hero-855">
+379: <span class="cs-topper">Custom Designs, Custom Coded</span>
+380: <h1 class="cs-title">Small Business Web Designer</h1>
+381: <p class="cs-text">No page builders or WordPress. We offer 100% hand-coded websites with superior results starting at $175/mo as well as Google Ads and SEO services.</p>
+382: <div class="cs-button-box">
+383: <a class="cs-button-solid cs-secondary" href="/contact/">Get Started</a> <a class="cs-button-solid cs-button-transparent" href="/about/">About Us</a>
+387: <source media="(max-width: 600px)" srcset="/assets/images/laptop-m.webp">
+388: <source media="(min-width: 601px)" srcset="/assets/images/laptop.png">
+389: <img alt="a laptop showing Mako Pool Restorations" decoding="async" height="493" src="/assets/images/laptop.png" width="936" loading="eager">
+392: <svg class="cs-wave desktop" fill="none" preserveAspectRatio="none" viewbox="0 0 1920 500" xmlns="http://www.w3.org/2000/svg">
+393: <path d="M251.463 378.438C126.937 315.555 47.343 253.833 0 209.721V501h1920V0c-356.51 157.88-717.07 312.544-986.268 407.584-269.195 95.039-457.636 84.299-682.269-29.146Z" fill="#fff"/>
+394: </svg> <svg class="cs-wave mobile" fill="none" preserveAspectRatio="none" viewbox="0 0 1920 760" xmlns="http://www.w3.org/2000/svg" height="990" width="1920">
+395: <g clip-path="url(#a)">
+397: </g>
+398: <path d="M0 498h1920v492H0z" fill="#fff"/>
+399: <defs>
+400: <clipPath id="a">
+401: <path d="M0 0h1920v501H0z" fill="#fff"/>
+402: </clipPath>
+403: </defs>
+404: </svg> <img alt="ufo" decoding="async" height="15" src="/assets/images/hero-dark.svg" width="15" aria-hidden="true" class="cs-wave cs-dark desktop" loading="lazy"> <img alt="ufo" decoding="async" height="15" src="/assets/images/mobile-trees.svg" width="15" aria-hidden="true" class="cs-wave cs-dark mobile" loading="lazy">
+408: </span> <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1">
+424: <img alt="icon" decoding="async" height="20" src="/assets/images/satellite.svg" width="20" aria-hidden="true" class="satellite" loading="lazy"> <span class="star star1">
+455: <div class="cs-ufo-wrapper">
+456: <div class="cs-ufo">
+457: <img alt="ufo" decoding="async" height="15" src="/assets/images/ufo.svg" width="15" aria-hidden="true" class="cs-alien" loading="lazy"> <img alt="ufo" decoding="async" height="15" src="/assets/images/tractor-beam.svg" width="15" aria-hidden="true" class="cs-beam" loading="lazy">
+461: <section id="services-966">
+464: <span class="cs-topper">What We Do</span>
+465: <h2 class="cs-title">Never Worry About Your Website Ever Again</h2>
+466: <p class="cs-text">At Oak Harbor Web Designs, we specialize in small business web design and development for clients anywhere in the US and Canada. Every line of code is written by hand to ensure the best performance and make Google happy, which helps bring in more customers to your site and bring more revenue to your business. We also manage the edits for you and will never leave you high and dry. Our goal is to create long term relationships with our clients and see them grow over time.</p>
+470: <a class="cs-link" href="/web-design/">
+472: <img alt="icon" decoding="async" height="40" src="/assets/svgs/i1.svg" width="40" class="cs-icon" loading="lazy">
+474: <h3 class="cs-h3">Mobile First Design</h3>
+475: <p class="cs-item-text">We start building your site for mobile devices first making sure the code is as lean and optimized with no bloated waste and makes the site even more responsive.</p>
+476: <span class="cs-fake-link">Get Started</span>
+477: <div class="cs-background" aria-hidden="true">
+496: <img alt="tree graphics" decoding="async" height="1200" src="/assets/images/trees-m.webp" width="1920" aria-hidden="true" class="cs-graphic" loading="lazy">
+503: <img alt="icon" decoding="async" height="40" src="/assets/svgs/i2.svg" width="40" class="cs-icon" loading="lazy">
+505: <h3 class="cs-h3">Fully Responsive</h3>
+506: <p class="cs-item-text">Your website will fit all mobile screens sizes, tablets, and desktop sizes so visitors can access your site from anywhere and see a beautiful site no matter the screen size.</p>
+534: <img alt="icon" decoding="async" height="40" src="/assets/svgs/i3.svg" width="40" class="cs-icon" loading="lazy">
+536: <h3 class="cs-h3">Optimized Page Speed</h3>
+537: <p class="cs-item-text">If your site takes more than 3 seconds to load you can lose up to 50% your traffic because it took too long. Our sites load 1 second or less ensuring everyone that visits your site reaches it.</p>
+538: <span class="cs-fake-link">More About Page Speed</span>
+563: <a class="cs-link" href="/seo-services/">
+565: <img alt="icon" decoding="async" height="40" src="/assets/svgs/i4.svg" width="40" class="cs-icon" loading="lazy">
+567: <h3 class="cs-h3">SEO Services</h3>
+568: <p class="cs-item-text">We have an in-house SEO specialist who understands local SEO and how to rank in your local market with plenty of case studies to show results and monthly reports.</p>
+569: <span class="cs-fake-link">More About SEO</span>
+594: <a class="cs-link" href="/google-ppc-services/">
+596: <img alt="icon" decoding="async" height="40" src="/assets/svgs/i5.svg" width="40" class="cs-icon" loading="lazy">
+598: <h3 class="cs-h3">Google PPC Ads</h3>
+599: <p class="cs-item-text">We also offer Pay-Per-Click Google ads creation and management with our Google Ads expert who can create effective ad campaigns to maximize your ROI.</p>
+600: <span class="cs-fake-link">More About Ads</span>
+625: <a class="cs-link" href="/about/">
+627: <img alt="icon" decoding="async" height="40" src="/assets/svgs/i6.svg" width="40" class="cs-icon" loading="lazy">
+629: <h3 class="cs-h3">Based In The USA</h3>
+630: <p class="cs-item-text">We do not hire cheap overseas developers. We are mostly based in the USA with team members in Washington, Texas, Pennsylvania, and the UK and work 100% remote from home.</p>
+631: <span class="cs-fake-link">More About Us</span>
+659: <section id="sbs-1362">
+663: <source media="(max-width: 600px)" srcset="/assets/images/ryan-home-273908b22f3747a08de373acd0addb4b.avif" type="image/avif">
+664: <source media="(max-width: 600px)" srcset="/assets/images/ryan-home-f9bdbd92075d6cf4eb9cb811f555ac2c.webp" type="image/webp">
+665: <source media="(max-width: 600px)" srcset="/assets/images/ryan-home-e2fc2bf8dcd498c7a2cd30b67790f8f0.jpeg" type="image/jpeg">
+666: <source media="(max-width: 1023px)" srcset="/assets/images/ryan-home-3511ac7701752a191d21db145a947688.avif" type="image/avif">
+667: <source media="(max-width: 1023px)" srcset="/assets/images/ryan-home-d22cc69e305c6058dc9d67a88e4c916b.webp" type="image/webp">
+668: <source media="(max-width: 1023px)" srcset="/assets/images/ryan-home-f31a5d47430267fd9180af5273bfac9d.jpeg" type="image/jpeg">
+669: <source media="(min-width: 1023px)" srcset="/assets/images/ryan-home-6fa7705a2933aa7e8f44db023f3ce343.avif" type="image/avif">
+670: <source media="(min-width: 1024px)" srcset="/assets/images/ryan-home-a3cac3ec9bae7d38f5bee4cf7843c28d.webp" type="image/webp">
+671: <source media="(min-width: 1024px)" srcset="/assets/images/ryan-home-d42e22f0cd66ca17001e868f5e13b6a2.jpeg" type="image/jpeg">
+672: <img alt="Ryan Postell, Owner and Lead Developer at Oak Harbor Web Designs" decoding="async" height="878" src="/assets/images/ryan-home-d42e22f0cd66ca17001e868f5e13b6a2.jpeg" width="586" aria-hidden="true" loading="lazy">
+674: <div class="cs-box">
+675: <div class="cs-flex">
+676: <span class="cs-name">Ryan Postell </span>
+677: <span class="cs-job">Owner, Developer</span>
+679: <img alt="people" decoding="async" height="60" src="/assets/svgs/tree.svg" width="60" class="cs-box-icon" loading="lazy">
+683: <span class="cs-topper">What We Offer</span>
+684: <h2 class="cs-title">Websites Starting At $0 Down And $175 Per Month</h2>
+685: <p class="cs-text">We offer $0 down for a standard 5 page small business website. If you need more than that then we have to do custom pricing based on the scope of work, number of additional pages, and time involved. <b>12 month minimum contract</b>. Includes design, development, hosting, unlimited edits, 24/7 support, and lifetime updates.</p>
+686: <ul class="cs-card-group" id="list-1597">
+688: <div class="wrapper">
+689: <img alt="check" decoding="async" height="24" src="/assets/svgs/check-blue.svg" width="24" aria-hidden="true" class="cs-check" loading="lazy">
+690: <h3 class="cs-h3">100% Secure</h3>
+692: <p class="cs-item-text">Our sites are just static HTML and CSS code, meaning there’s literally nothing that can be hacked.</p>
+697: <h3 class="cs-h3">Custom Designed</h3>
+699: <p class="cs-item-text">Our designs are made by an in-house design team, which allows us to make anything we want.</p>
+704: <h3 class="cs-h3">100 PageSpeed Scores</h3>
+706: <p class="cs-item-text">Our sites have zero bloat, zero waste, and built with purpose so we get perfect 98-100/100 speed scores with Google.</p>
+711: <h3 class="cs-h3">Money Back Guarantee</h3>
+713: <p class="cs-item-text">If we can’t design something you like, you get your money back and the contract is cancelled. We stand by our work.</p>
+718: <h3 class="cs-h3">Unmatched Support</h3>
+720: <p class="cs-item-text">Call or text us anytime, no phone trees or robots. When you call us you get me - the owner and developer.</p>
+725: <h3 class="cs-h3">We Know SEO</h3>
+727: <p class="cs-item-text">No snake oil, no tricks, no lies. We explain very clearly what SEO is, how it works, and what we can do to get you ranking.</p>
+730: <a class="cs-button-solid" href="/contact/">Schedule a Call</a>
+736: <section id="portfolio">
+740: <span class="cs-topper">Portfolio</span>
+741: <h2 class="cs-title">Some Of The Work We’ve Done Over The Years</h2>
+743: <p class="cs-text">We have worked with clients all over the US and Canada for home services contractors, restaurants, consulting agencies, start ups, dermatologists, doctors, accountants, and more. No matter what your business is, we can build a website that is effective, beautiful, performant, and tailored to your industry.</p>
+747: <a class="cs-link" href="https://www.valleyconstructionsupply.com/">
+749: <source media="(max-width: 600px)" srcset="/assets/images/port1-52b7e91d6e83606a7badc413e5423430.avif" type="image/avif">
+750: <source media="(max-width: 600px)" srcset="/assets/images/port1-088b4717b6a4bae45b0517a5a6a7d3d7.webp" type="image/webp">
+751: <source media="(max-width: 600px)" srcset="/assets/images/port1-6e33e5b695f87903379560e94d189c00.jpeg" type="image/jpeg">
+752: <source media="(max-width: 1024px)" srcset="/assets/images/port1-5c0a1cf1860642f154f8fd4ccde2eea8.avif" type="image/avif">
+753: <source media="(max-width: 1024px)" srcset="/assets/images/port1-fb0c4f5c66a5fe0055555ab07dd31e92.webp" type="image/webp">
+754: <source media="(max-width: 1024px)" srcset="/assets/images/port1-10f4326b2a4948532acb0923030aac56.jpeg" type="image/jpeg">
+755: <source media="(min-width: 1024px)" srcset="/assets/images/port1-740bdf8558705e17495bacc0d8b17991.avif" type="image/avif">
+756: <source media="(min-width: 1024px)" srcset="/assets/images/port1-56f1d35955c4bc447c2be7c465cc2068.webp" type="image/webp">
+757: <source media="(min-width: 1024px)" srcset="/assets/images/port1-be3f4cc7290de003f5eed93ea16c9364.jpeg" type="image/jpeg">
+758: <img alt="A computer screen showing a website preview" decoding="async" height="270" src="/assets/images/port1-be3f4cc7290de003f5eed93ea16c9364.jpeg" width="413" aria-hidden="true" loading="lazy">
+760: <h3 class="cs-h3">Valley Construction Supply</h3>
+761: <p class="cs-item-text">Valley Construction Supply is the largest privately held construction supply company in Seattle, WA for over 35 years and has been a happy client for over 5 years.</p>
+762: <span class="cs-button-solid">Visit Website</span>
+766: <a class="cs-link" href="https://www.drvictoriachan.com/" target="_blank">
+768: <source media="(max-width: 600px)" srcset="/assets/images/port2-79021c7b418369d834b302c1172f3823.avif" type="image/avif">
+769: <source media="(max-width: 600px)" srcset="/assets/images/port2-fcf4e342f08c683c161f84896beac6d9.webp" type="image/webp">
+770: <source media="(max-width: 600px)" srcset="/assets/images/port2-7fc335d9248da66b92c1eec85e86fa9f.jpeg" type="image/jpeg">
+771: <source media="(max-width: 1024px)" srcset="/assets/images/port2-b88bc08a2cbdb234c52e5e1bb2ac0068.avif" type="image/avif">
+772: <source media="(max-width: 1024px)" srcset="/assets/images/port2-a50d0afd0119fe18fa2027300e768010.webp" type="image/webp">
+773: <source media="(max-width: 1024px)" srcset="/assets/images/port2-7f30e579b5a0af8012ca58561b449781.jpeg" type="image/jpeg">
+774: <source media="(min-width: 1024px)" srcset="/assets/images/port2-df13d24d6be9a15a5ae10a7b22856312.avif" type="image/avif">
+775: <source media="(min-width: 1024px)" srcset="/assets/images/port2-a70fac520df2eba850005274830720db.webp" type="image/webp">
+776: <source media="(min-width: 1024px)" srcset="/assets/images/port2-8a0e680787c6a40e5e281e27f2e8a8a7.jpeg" type="image/jpeg">
+777: <img alt="A computer screen showing a website preview" decoding="async" height="270" src="/assets/images/port2-8a0e680787c6a40e5e281e27f2e8a8a7.jpeg" width="413" aria-hidden="true" loading="lazy">
+779: <h3 class="cs-h3">Dr. Victoria Chan</h3>
+780: <p class="cs-item-text">Dr. Victoria Chan is a Naturopathic Doctor based in California who offers a holistic approach to mental health. This was a VERY custom design that came out amazing.</p>
+785: <a class="cs-link" href="https://casablancabakery.com/es/" target="_blank">
+787: <source media="(max-width: 600px)" srcset="/assets/images/port3-2c1369e3ac4fa9381b4a715e1b1cd7d1.avif" type="image/avif">
+788: <source media="(max-width: 600px)" srcset="/assets/images/port3-233df4082bac3194fb839a4110190389.webp" type="image/webp">
+789: <source media="(max-width: 600px)" srcset="/assets/images/port3-2d16165179294ce90e18774cb96fc483.jpeg" type="image/jpeg">
+790: <source media="(max-width: 1024px)" srcset="/assets/images/port3-7884fb7606f20cda15da777c1ba8f020.avif" type="image/avif">
+791: <source media="(max-width: 1024px)" srcset="/assets/images/port3-9e8426f1d7c62b057aa27817102d4798.webp" type="image/webp">
+792: <source media="(max-width: 1024px)" srcset="/assets/images/port3-f4131974bebd0d770dd13eb7b2133a95.jpeg" type="image/jpeg">
+793: <source media="(min-width: 1024px)" srcset="/assets/images/port3-739f2128fb39223bf0a90917b3226ca2.avif" type="image/avif">
+794: <source media="(min-width: 1024px)" srcset="/assets/images/port3-5467c840d04c42a2f078ab74fc0c501c.webp" type="image/webp">
+795: <source media="(min-width: 1024px)" srcset="/assets/images/port3-c19771ca73a0fc4dd8dd555de97a7541.jpeg" type="image/jpeg">
+796: <img alt="A computer screen showing a website preview" decoding="async" height="270" src="/assets/images/port3-c19771ca73a0fc4dd8dd555de97a7541.jpeg" width="413" aria-hidden="true" loading="lazy">
+798: <h3 class="cs-h3">Casablanca Bakery</h3>
+799: <p class="cs-item-text">For Casablanca, we had a much larger scope of work where we built them a fully editable menu with a custom CMS to edit it, and a multi-language toggle.</p>
+806: <section id="sbs-1640">
+808: <div class="cs-stats-group">
+809: <ul class="cs-stats">
+810: <li class="cs-stat">
+811: <span class="cs-number">100%</span> <span class="cs-desc">Satisfaction Guaranteed</span>
+814: <span class="cs-number">100</span> <span class="cs-desc">Page Speed Scores</span>
+817: <span class="cs-number">5/5</span> <span class="cs-desc">Google Reviews</span>
+821: <source media="(max-width: 600px)" srcset="/assets/images/pagespeed-ab527f0f08d1ecc03d847a4031fd2a93.avif" type="image/avif">
+822: <source media="(max-width: 600px)" srcset="/assets/images/pagespeed-217e125f20ed428bc59567251ed28fb6.webp" type="image/webp">
+823: <source media="(max-width: 600px)" srcset="/assets/images/pagespeed-350dde780014084dbfd5e9bd83125410.jpeg" type="image/jpeg">
+824: <source media="(max-width: 1024px)" srcset="/assets/images/pagespeed-9def2c561e2cf5e88db0d19be07f0bb8.avif" type="image/avif">
+825: <source media="(max-width: 1024px)" srcset="/assets/images/pagespeed-cb9aa2e945c5f4d1d8efacc275015dbb.webp" type="image/webp">
+826: <source media="(max-width: 1024px)" srcset="/assets/images/pagespeed-1e4ac36c6e425f5624998a3d49efe803.jpeg" type="image/jpeg">
+827: <source media="(min-width: 1024px)" srcset="/assets/images/pagespeed-9def2c561e2cf5e88db0d19be07f0bb8.avif" type="image/avif">
+828: <source media="(min-width: 1024px)" srcset="/assets/images/pagespeed-cb9aa2e945c5f4d1d8efacc275015dbb.webp" type="image/webp">
+829: <source media="(min-width: 1024px)" srcset="/assets/images/pagespeed-1e4ac36c6e425f5624998a3d49efe803.jpeg" type="image/jpeg">
+830: <img alt="a screenshot showing perfect Google pagespeed scores" decoding="async" height="461" src="/assets/images/pagespeed-1e4ac36c6e425f5624998a3d49efe803.jpeg" width="630" aria-hidden="true" loading="lazy">
+834: <span class="cs-topper">Performance</span>
+835: <h2 class="cs-title">We Build <span class="cs-color">Better</span> Websites That Perform</h2>
+836: <p class="cs-text">When it comes to website load times, not very many can get the Google PageSpeed scores that we get with each and every site. Test your website load times with Google PageSpeed Insights and see what your current site is scoring right now.</p>
+837: <ul class="cs-ul" id="list-823">
+839: <img alt="icon" decoding="async" height="40" src="/assets/svgs/stat1.svg" width="40" aria-hidden="true" class="cs-icon" loading="lazy"> Better load times means more traffic and more site conversions over time.</li>
+841: <img alt="icon" decoding="async" height="40" src="/assets/svgs/stat2.svg" width="40" aria-hidden="true" class="cs-icon" loading="lazy"> Faster websites can help improve SEO and your Google ads performance.</li>
+843: <img alt="icon" decoding="async" height="40" src="/assets/svgs/stat3.svg" width="40" aria-hidden="true" class="cs-icon" loading="lazy"> Our sites load instantly in under 1 second or less, which leads to a better user experience and conversions.</li>
+845: <a class="cs-button-solid cs-secondary" href="/contact/">Get Started Today</a>
+849: <section id="video-548">
+872: <section id="pricing-1690">
+876: <span class="cs-topper">Our Pricing</span>
+877: <h2 class="cs-title">Pricing Packages For Every Budget</h2>
+879: <a class="cs-button-solid" href="/contact/">Get Started</a>
+883: <span class="cs-package">Lump Sum</span>
+885: <li class="cs-li">Design And Development <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+887: <li class="cs-li">$25/mo Hosting <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+889: <li class="cs-li">$100 fee Per Page after 5 <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+891: <li class="cs-li">+$50/mo Unlimited Edits Add-on <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+893: <li class="cs-li">+$250 To Add A Blog <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+895: <li class="cs-li cs-disabled">24/7 Support <img alt="checkmark" decoding="async" height="18" src="/assets/images/nope.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+897: <li class="cs-li cs-disabled">Lifetime Updates <img alt="checkmark" decoding="async" height="18" src="/assets/images/nope.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+900: <span class="cs-price">$3800 <span class="cs-duration">+$25/mo Hosting</span> </span>
+903: <li class="cs-item cs-popular">
+904: <span class="cs-package">Monthly</span>
+908: <li class="cs-li">Includes Hosting <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+910: <li class="cs-li">$100 fee Per Page After 5 <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+914: <li class="cs-li">Unlimited Edits <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+916: <li class="cs-li">24/7 Support <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+918: <li class="cs-li">Lifetime Updates <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+921: <span class="cs-price">$175 <span class="cs-duration">Per Month</span> </span>
+922: <a class="cs-button-solid cs-secondary" href="/contact/">Get Started</a>
+925: <span class="cs-package">Ecommerce</span>
+927: <li class="cs-li">Custom Shopify Store <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+929: <li class="cs-li">Configure Any And All Apps <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+931: <li class="cs-li">Integrated Shipping <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+933: <li class="cs-li">Shopify Tutorial Walkthrough <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+935: <li class="cs-li">Fully Editable In Shopify CMS <img alt="checkmark" decoding="async" height="18" src="/assets/svgs/tick-blue.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+937: <li class="cs-li cs-disabled">+$50/mo Unlimited Edits <img alt="checkmark" decoding="async" height="18" src="/assets/images/nope.svg" width="18" aria-hidden="true" class="cs-icon" loading="lazy">
+942: <span class="cs-price">$8k <span class="cs-duration">Starting</span> </span>
+948: <section id="blog-1347">
+951: <span class="cs-topper">our Blog</span>
+952: <h2 class="cs-title">Latest News And Articles</h2>
+956: <a class="cs-link" href="/blog/best-of-whidbey-digital-marketing-and-web-design/">
+958: <source media="(max-width: 600px)" srcset="/assets/images/whidbey-ecf90e0558572516f642a3d1a3c185f5.avif" type="image/avif">
+959: <source media="(max-width: 600px)" srcset="/assets/images/whidbey-d1990510bc04359ec23d53416f976f64.webp" type="image/webp">
+960: <source media="(max-width: 600px)" srcset="/assets/images/whidbey-cad84142c22c7b3450bdb8da83a0aa40.jpeg" type="image/jpeg">
+961: <source media="(max-width: 1024px)" srcset="/assets/images/whidbey-e84434a945f90072b1166e1499cacaf3.avif" type="image/avif">
+962: <source media="(max-width: 1024px)" srcset="/assets/images/whidbey-df9a6db4d3a9e761eb6cd4fb76cbc27c.webp" type="image/webp">
+963: <source media="(max-width: 1024px)" srcset="/assets/images/whidbey-cf5d32c63c7dd35f6e595e8e03068967.jpeg" type="image/jpeg">
+964: <source media="(min-width: 1024px)" srcset="/assets/images/whidbey-27381e760d27d930c0c08e8f39a34d5b.avif" type="image/avif">
+965: <source media="(min-width: 1024px)" srcset="/assets/images/whidbey-501b2f4337e10a6f9b9aacae7e7190b6.webp" type="image/webp">
+966: <source media="(min-width: 1024px)" srcset="/assets/images/whidbey-d90f77575df22c23d754a83e2043e771.jpeg" type="image/jpeg">
+967: <img alt="two certificates for best of whidbey 2025" decoding="async" height="320" src="/assets/images/whidbey-d90f77575df22c23d754a83e2043e771.jpeg" width="416" aria-hidden="true" loading="lazy">
+969: <div class="cs-item-text">
+970: <h3 class="cs-h3">Best Of Whidbey In Web Design & Digital Marketing 2025<picture class="cs-icon-wrapper">
+971: <img alt="arrow" decoding="async" height="374" src="/assets/images/agency-arrow-upper-right.svg" width="413" aria-hidden="true" class="cs-icon">
+973: </h3>
+975: <span class="cs-date">
+976: <img alt="calendar" decoding="async" height="374" src="/assets/svgs/calendar.svg" width="413" aria-hidden="true" class="cs-date-icon"> Jan 17, 2026 </span>
+977: <span class="cs-category">Tutorial</span>
+983: <a class="cs-link" href="/blog/wordpress-bans-wp-engine/">
+985: <source media="(max-width: 600px)" srcset="/assets/images/wp-b355e52edae84c82112234623d2ad908.avif" type="image/avif">
+986: <source media="(max-width: 600px)" srcset="/assets/images/wp-aa1410de2094fd51c1550ffa6112b943.webp" type="image/webp">
+987: <source media="(max-width: 600px)" srcset="/assets/images/wp-36f419cb493843d405999657f6ef1459.jpeg" type="image/jpeg">
+988: <source media="(max-width: 1024px)" srcset="/assets/images/wp-52d4023a2973d4732484d6a93a12f9cd.avif" type="image/avif">
+989: <source media="(max-width: 1024px)" srcset="/assets/images/wp-990567b963108c6d0cdfc85e567c764f.webp" type="image/webp">
+990: <source media="(max-width: 1024px)" srcset="/assets/images/wp-b12433e9e176e46d08c1d3c9b45239e6.jpeg" type="image/jpeg">
+991: <source media="(min-width: 1024px)" srcset="/assets/images/wp-ce2f10b40fe593209149b0a0f52b9f1c.avif" type="image/avif">
+992: <source media="(min-width: 1024px)" srcset="/assets/images/wp-c12209a6f5051d7773600cfdadf07f0d.webp" type="image/webp">
+993: <source media="(min-width: 1024px)" srcset="/assets/images/wp-b58c03010e3e974038d3b24c4b4292ea.jpeg" type="image/jpeg">
+994: <img alt="wordpress logo" decoding="async" height="320" src="/assets/images/wp-b58c03010e3e974038d3b24c4b4292ea.jpeg" width="416" aria-hidden="true" loading="lazy">
+997: <h3 class="cs-h3">WordPress Bans WP Engine And Impacts Millions Of Websites<picture class="cs-icon-wrapper">
+1003: <img alt="calendar" decoding="async" height="374" src="/assets/svgs/calendar.svg" width="413" aria-hidden="true" class="cs-date-icon"> Sep 27, 2024 </span>
+1010: <a class="cs-link" href="/blog/how-to-add-dark-mode-to-your-website/">
+1012: <source media="(max-width: 600px)" srcset="/assets/images/dark-mode-f51755892201cbf3000f4c5beba314e8.avif" type="image/avif">
+1013: <source media="(max-width: 600px)" srcset="/assets/images/dark-mode-6dd1bacd254e98277c0cd3415264be7c.webp" type="image/webp">
+1014: <source media="(max-width: 600px)" srcset="/assets/images/dark-mode-a4bfb57ed0f3d3f3306c1192b7c5e0ee.jpeg" type="image/jpeg">
+1015: <source media="(max-width: 1024px)" srcset="/assets/images/dark-mode-c7be92ab69052d0eb1813c9065463584.avif" type="image/avif">
+1016: <source media="(max-width: 1024px)" srcset="/assets/images/dark-mode-da11030db8319324e8ac7473e6e2dd79.webp" type="image/webp">
+1017: <source media="(max-width: 1024px)" srcset="/assets/images/dark-mode-d98489783f24002ac3739202f3c0b6b2.jpeg" type="image/jpeg">
+1018: <source media="(min-width: 1024px)" srcset="/assets/images/dark-mode-1438539b96e9762812a16aa5ecb409f5.avif" type="image/avif">
+1019: <source media="(min-width: 1024px)" srcset="/assets/images/dark-mode-330fff904d2bdd33c4fd8e168f6cfe1d.webp" type="image/webp">
+1020: <source media="(min-width: 1024px)" srcset="/assets/images/dark-mode-8beb19ab9bbf0d7b59f9d13ebf4edda8.jpeg" type="image/jpeg">
+1021: <img alt="A dark night" decoding="async" height="320" src="/assets/images/dark-mode-8beb19ab9bbf0d7b59f9d13ebf4edda8.jpeg" width="416" aria-hidden="true" loading="lazy">
+1024: <h3 class="cs-h3">How to add dark mode to your website? Here is the code you need!<picture class="cs-icon-wrapper">
+1030: <img alt="calendar" decoding="async" height="374" src="/assets/svgs/calendar.svg" width="413" aria-hidden="true" class="cs-date-icon"> Sep 14, 2024 </span>
+1048: <img alt="quote icon" decoding="async" height="33" src="/assets/images/quote-blue.svg" width="40" aria-hidden="true" class="cs-quote">
+1049: <p class="cs-review">Ryan and his team have been awesome to work with. The value they provide for the cost is unbeatable. Ryan is talented and responsive. I highly recommend him for your website needs!</p>
+1050: <span class="cs-name">Michael M.</span> <span class="cs-job">Salt Lake City, UT</span>
+1054: <p class="cs-review">Oak Harbor and Ryan have made the process of building a website a fun, exciting experience. He is very personable and answers your questions within a quick manner. I’ll be using him in the future.</p>
+1055: <span class="cs-name">Clark P.</span> <span class="cs-job">Sacramento, CA</span>
+1059: <p class="cs-review">I approached Ryan with a very specific vision for our new website, and he knocked it out of the park. I was looking for a clean, original design and a faster site. He absolutely delivered.</p>
+1060: <span class="cs-name">Scott S.</span> <span class="cs-job">Atlanta, GA</span>
+1067: <div id="popup-2064">
+1069: <button class="cs-close">
+1070: <img alt="close" decoding="async" height="16" src="https://csimg.nyc3.cdn.digitaloceanspaces.com/Images/Icons/cookie-close.svg" width="16" loading="lazy">
+1074: <h3 class="cs-h3">Are You A Developer?</h3>
+1075: <p class="cs-text">We made an HTML and CSS template library just for developers to help you build websites faster.</p>
+1077: <a class="cs-button-solid cs-accept" href="https://codestitch.app/" target="_blank">Try For Free</a>
+1081: <script>document.addEventListener("DOMContentLoaded",function(){const e=document.getElementById("popup-2064");var t=document.querySelector(".cs-close"),c=document.querySelector(".cs-accept");function o(){e.classList.remove("cs-show"),localStorage.setItem("cookiesAccepted","false"),setTimeout(function(){e.style.display="none"},300)}"true"===localStorage.getItem("cookiesAccepted")&&(e.style.display="block",setTimeout(function(){e.classList.add("cs-show")},5e3)),t.addEventListener("click",o),c.addEventListener("click",o),c.addEventListener("click",function(){o()})})</script>
+1187: <svg class="cs-footer-swoosh" fill="none" preserveAspectRatio="none" viewbox="0 0 1920 254" xmlns="http://www.w3.org/2000/svg">
+
+FILE live-web-design-readable.html
+7: <meta content="We are a premier web design and development agency with a reputation for our professional designs and custom coded websites that load fast and perform better than page builders. See what we can do for you today!" name="description">
+9: <link href="https://oakharborwebdesigns.com/web-design/" rel="canonical">
+11: <meta content="Web Design & Development | Oak Harbor Web Designs" property="og:title">
+12: <meta content="We are a premier web design and development agency with a reputation for our professional designs and custom coded websites that load fast and perform better than page builders. See what we can do for you today!" property="og:description">
+14: <meta content="https://oakharborwebdesigns.com/web-design/" property="og:url">
+37: <link href="/assets/css/interior.css" rel="stylesheet">
+39: <title>Web Design & Development | Oak Harbor Web Designs</title>
+365: <span class="cs-int-title">Web Design</span>
+421: <section id="content-page-714">
+424: <h1 class="cs-title">Professional Web Design & Development Services</h1>
+425: <h2>Custom Code - NO Page Builders Or Wordpress</h2>
+426: <p>At Oak Harbor Web Designs, we do things a little differently. Instead of using page builders or Wordpress, we hand write all the code for our sites from top to bottom. This allows us to make very custom designs, have absolutely ZERO bloat or wasted code to slow us down, they load instantly, score perfect marks on Google Page Speed Insights, are more secure and actually impossible to hack, and we don't need to constantly update plugins or WordPress versions to prevent hacking.</p>
+427: <h3>Why IT Matters</h3>
+428: <ul>
+429: <li>Faster load times</li>
+430: <li>Better conversions</li>
+431: <li>Better performing ads</li>
+432: <li>More secure</li>
+433: <li>Better ranking on Google</li>
+434: <li>Boosts your Google Business Profile in the Maps Listings</li>
+436: <h4>Better Load times leads to higher conversions</h4>
+437: <p>It's very competitive online, and you need every edge you can get to stand out and overtake your competition. When everyone else is using a page builder and getting poor load times, you could be getting something different - something custom coded and loading instantly. This is important because if your website takes <strong>more than 3 seconds to load</strong>, <strong>you could lose up to 50% of your traffic</strong> because they leave before the site can load. They just don't want to wait that long. Our sites load so fast they don't have any chance to leave, allowing us to capture more leads to the site than your old one did.</p>
+438: <h4>Better Ads Performance</h4>
+439: <p>The faster your website loads, the better your conversions are for the ads to send them to. And Google prefers websites that load fast. Faster loading websites actually have a lower cost-per-click which can save you hundreds or more a month depending on how much you're spending on ads clicks.</p>
+440: <h4>Custom Coded Websites Are More Secure</h4>
+441: <p>WordPress and other builders have lots of vulnerabilities and points of entry into the site that can be compromised. Like with Wordpress, if you aren't constantly updating your plugins and WordPress version then you are increasing the chances of getting hacked every day you don't. Hackers target WordPress more than any other platform because they are easier to get into (especially if you aren't doing your updates!).</p>
+442: <p>With our custom code, we don't have any databases or server side requests being made that hackers can intercept and hijack to insert their own code to redirect a site to a spam site. It's just static HTML and CSS files. There's nothing TO hack. We can leave our sites alone for 10 years and nothing will happen to them. They are as secure as you can get.</p>
+443: <h4>Improve your search ranking</h4>
+444: <p>Better load times can improve your ranking on Google in a number of ways. The most common way is by just being faster. If there are two similar sites with similar content and domain authority, Google has stated that the one with the better Page Speed Scores and Core Vitals will win.</p>
+445: <p>The other method is more indirect. When your site loads faster, more people reach it. And the more people you have going to your site can increase your ranking. And by focusing on Google's Core Vitals Metrics we can create a better user experience on the site to keep them on the site with higher session times and navigating the site with more clicks to other pages to learn more. With more traffic, higher session times, and better click through rates, we can improve our Google ranking by showing Google we are solving the users search queries and are experts in our field that visitors find valuable with our carefully written and helpful content.</p>
+446: <h4>Boost Your Google Business Profile</h4>
+447: <p>A faster loading website can also add extra boost to your Google Business Profile and help increase your visibility in Maps searches. Couple that with LOTS of 5 star reviews, images, and a full 100% complete profile, you will start seeing more leads coming from that profile than you had before. The more visible we can make your profile there, the more people that reach your site, and that's more people that our site can convert into a lead.</p>
+448: <h2>Small Business SEO Specialists</h2>
+449: <p>Web design and SEO go hand in hand. A well-built website will not always be enough to move the needle as much as you'd like, especially in more competitive markets. That's why we have an in-house <a href="/seo-services/">SEO expert</a> who knows how to rank a website and generate leads.</p>
+450: <p>Forget the buzzwords like "optimize your user experience, submit a site map, optimize your meta tags and descriptions, blah blah blah". Those are all things that EVERY developer should be doing by default. Those aren't SEO services. SEO is an active and engaged process of content creation, backlinking, blogging, and monitoring. If you want to learn more about our <a href="/seo-services/">small business SEO services</a>, we're happy to set up a call and explain in detail every little thing we do and how this all works.</p>
+454: <source media="(max-width: 600px)" srcset="/assets/images/oak1-3216fdeb3b8d24cbfcb2e576c00aea9c.avif" type="image/avif">
+455: <source media="(max-width: 600px)" srcset="/assets/images/oak1-917bbe48aebb3a5c13bff5b11ad6c150.webp" type="image/webp">
+456: <source media="(max-width: 600px)" srcset="/assets/images/oak1-572e40bcb93d7e29ad8dfb7db5890d35.jpeg" type="image/jpeg">
+457: <source media="(max-width: 1024px)" srcset="/assets/images/oak1-40473c9be28c786ee9f6e6452dbc918b.avif" type="image/avif">
+458: <source media="(max-width: 1024px)" srcset="/assets/images/oak1-4f315547153259a813e8d338bea5e252.webp" type="image/webp">
+459: <source media="(max-width: 1024px)" srcset="/assets/images/oak1-19d9ca1e499f09033aea9385057c9c68.jpeg" type="image/jpeg">
+460: <source media="(min-width: 1024px)" srcset="/assets/images/oak1-6be28cc1e2799a3b430d698290eeee17.avif" type="image/avif">
+461: <source media="(min-width: 1024px)" srcset="/assets/images/oak1-3a8765fd3e3cecf5f8a23cbcc4a71e9a.webp" type="image/webp">
+462: <source media="(min-width: 1024px)" srcset="/assets/images/oak1-e4be27a6ecffa8319302fa156ec60f0e.jpeg" type="image/jpeg">
+463: <img alt="ryan postell at deception pass bridge" aria-hidden="true" decoding="async" height="623" src="/assets/images/oak1-19d9ca1e499f09033aea9385057c9c68.jpeg" width="518" loading="lazy" style="transform:scaleY(-1)">
+470: <img alt="waves" aria-hidden="true" decoding="async" height="952" src="/assets/images/large-waves.svg" width="625">

@@ -1,0 +1,492 @@
+schema_version: "1.0"
+document_type: visual_structure
+mode: reference_scan
+
+source:
+  name: Tutorful
+  url: "https://tutorful.co.uk/"
+  captured_at: "2026-09-16"
+  screenshots:
+    desktop:
+      file: "screenshots/desktop-full.png"
+      viewport: "1440x900"
+      image_size: "1440x13921"
+    tablet:
+      file: "screenshots/tablet-full.png"
+      viewport: "1024x768"
+      image_size: "1024x13113"
+    mobile:
+      file: "screenshots/mobile-full.png"
+      viewport: "390x844"
+      image_size: "390x14052"
+
+classification:
+  business_category: tutor_marketplace
+  primary_visual_style: conversion_led
+  secondary_visual_styles:
+    - image_led
+    - friendly_editorial
+  market_level: accessible
+  content_density: high
+  image_dependency: medium
+  implementation_complexity: medium
+
+scan_status:
+  screenshots: complete
+  structure: complete
+  content_mapping: pending
+  visual_system: pending
+  motion: pending
+  implementation: pending
+  final_report: pending
+
+observation:
+  measurement_method: screenshot_measurement
+  confidence: medium
+  desktop_verified: true
+  tablet_verified: true
+  mobile_verified: true
+  dynamic_content_present: true
+  capture_limitations:
+    - Long scroll-driven or sticky scenes reserve substantial vertical space.
+    - Some animated values were captured before their final state, including the mobile 8-hour statistic.
+    - Several mobile visual layers do not appear in the stitched full-page screenshot.
+    - Tablet provides the clearest static representation of all major sections.
+
+architecture:
+  page_type: homepage
+  page_goal: find_and_select_a_tutor
+  primary_conversion: find_a_tutor
+  secondary_conversions:
+    - browse_tutors
+    - explore_adult_tuition
+    - browse_subjects
+  homepage_length: long
+  header_behavior: static
+  footer_depth: directory
+
+  navigation:
+    desktop_pattern: logo_left_links_center_action_right
+    tablet_pattern: logo_left_menu_toggle_right
+    mobile_pattern: logo_left_menu_toggle_right
+    desktop_items:
+      - Our tutors
+      - How it works
+      - School age learners
+      - Adult learners
+      - Resources
+      - Login
+      - Find a tutor
+
+  section_sequence:
+    - primary_navigation
+    - hero
+    - positioning_statement
+    - press_logos
+    - proof_metrics
+    - tutor_quality_pathway
+    - adult_learning_pathway
+    - eight_hour_result
+    - personalised_results
+    - testimonials
+    - matching_process
+    - learning_benefits
+    - student_safety
+    - accreditation
+    - subject_directory
+    - first_lesson_guarantee
+    - directory_footer
+
+layout_system:
+  width_model: full_width_sections_with_inner_containers
+  estimated_content_max_width: 1340px
+  desktop_page_padding: 48px
+  tablet_page_padding: 20px
+  mobile_page_padding: 15px
+  dominant_desktop_grid: 2_columns
+  dominant_tablet_grid: 2_columns
+  dominant_mobile_grid: 1_column
+  common_section_shape: large_rounded_panel
+  common_media_shape: rounded_rectangle_with_offset_shadow_plate
+
+sections:
+  - id: primary_navigation
+    type: navigation
+    variant: logo_left_links_center_action_right
+    purpose: orientation_and_primary_conversion
+    content_regions:
+      - logo
+      - primary_links
+      - login
+      - find_tutor_button
+    layout:
+      desktop:
+        height: approximately_80px
+        arrangement: single_horizontal_row
+      tablet:
+        height: approximately_65px
+        arrangement: logo_and_menu_toggle
+      mobile:
+        height: approximately_65px
+        arrangement: logo_and_menu_toggle
+    responsive_transformation:
+      at_tablet: replace_all_links_with_menu_toggle
+
+  - id: hero
+    type: hero
+    variant: split_content_media_with_lower_product_panel
+    purpose: state_primary_offer_and_start_tutor_search
+    content_regions:
+      - trustpilot_rating
+      - h1
+      - primary_cta
+      - student_photo
+      - subject_search_overlay
+      - rotating_tutor_names
+      - tutor_profile_phone_mockup
+    layout:
+      desktop:
+        grid: equal_2_columns
+        left_region: copy_top_and_phone_mockup_bottom
+        right_region: full_height_student_photo
+        approximate_height: 740px
+      tablet:
+        grid: equal_2_columns
+        navigation_collapsed: true
+      mobile:
+        layout_mode: stack
+        order:
+          - trustpilot_rating
+          - h1
+          - primary_cta
+          - tutor_profile_phone_mockup
+        hidden_or_not_captured:
+          - student_photo
+          - subject_search_overlay
+          - rotating_tutor_names
+
+  - id: positioning_statement
+    type: introduction
+    variant: oversized_centered_statement_with_inline_icons
+    purpose: summarize_service_value
+    layout:
+      desktop:
+        reading_width: approximately_760px
+        alignment: center
+        vertical_space: generous
+      mobile:
+        alignment: left
+        width: full
+        line_wrap: short
+
+  - id: press_logos
+    type: trust_strip
+    variant: large_logo_tiles
+    purpose: establish_external_credibility
+    layout:
+      desktop:
+        label_position: left
+        logos: 5_in_one_row
+      tablet:
+        label_position: centered_above
+        logos: 5_in_one_row
+      mobile:
+        label_position: centered_above
+        behavior: horizontal_overflow
+
+  - id: proof_metrics
+    type: results
+    variant: metric_list_plus_guarantee_card
+    purpose: quantify_scale_results_and_reduce_risk
+    content_regions:
+      - five_metric_rows
+      - first_lesson_guarantee_card
+    layout:
+      desktop:
+        container: large_rounded_light_panel
+        grid: "2:1"
+        metrics: vertical_rows
+        guarantee: right_column_card
+      tablet:
+        grid: "2:1"
+      mobile:
+        layout_mode: stack
+        order:
+          - metric_rows
+          - guarantee_card
+
+  - id: post_metrics_scroll_scene
+    type: custom
+    variant: reserved_scroll_animation_space
+    purpose: transition_between_proof_and_audience_pathways
+    layout:
+      desktop:
+        visible_behavior: large_white_reserved_scroll_region
+      tablet:
+        visible_behavior: large_white_reserved_scroll_region
+      mobile:
+        visible_behavior: very_large_white_reserved_scroll_region
+    note: This is likely a pinned animation scene and must not be interpreted as accidental padding without browser interaction testing.
+
+  - id: tutor_quality_pathway
+    type: featured_service
+    variant: copy_left_media_right
+    purpose: explain_tutor_vetting_and_link_to_tutors
+    content_regions:
+      - heading
+      - description
+      - secondary_cta
+      - student_photo
+      - matching_status_overlay
+    layout:
+      desktop:
+        grid: equal_2_columns
+      tablet:
+        grid: equal_2_columns
+      mobile:
+        expected_layout: stack
+        screenshot_visibility: not_reliably_captured
+
+  - id: adult_learning_pathway
+    type: featured_service
+    variant: media_left_copy_right
+    purpose: expose_secondary_adult_learning_audience
+    content_regions:
+      - phone_product_photo
+      - heading
+      - description
+      - secondary_cta
+    layout:
+      desktop:
+        grid: equal_2_columns
+      tablet:
+        grid: equal_2_columns
+      mobile:
+        expected_layout: stack
+        screenshot_visibility: not_reliably_captured
+
+  - id: eight_hour_result
+    type: results
+    variant: horizontal_stat_banner
+    purpose: communicate_a_memorable_outcome
+    content_regions:
+      - icon
+      - large_statistic
+      - explanatory_copy
+    layout:
+      desktop:
+        grid: icon_stat_copy
+        container: bright_green_rounded_banner
+      tablet:
+        grid: icon_stat_copy
+      mobile:
+        layout_mode: stack_inside_card
+        captured_value: "0h"
+        expected_value_from_other_viewports: "8h"
+
+  - id: personalised_results
+    type: benefits
+    variant: centered_intro_full_width_media
+    purpose: connect_personalisation_to_measurable_results
+    content_regions:
+      - centered_heading
+      - centered_description
+      - wide_student_photo
+      - result_statement
+      - find_tutor_cta
+    layout:
+      desktop:
+        media_width: nearly_full_container
+        result_and_cta: opposite_edges_below_media
+      tablet:
+        same_as_desktop
+      mobile:
+        expected_layout: stack
+        screenshot_visibility: media_not_reliably_captured
+
+  - id: testimonials
+    type: testimonials
+    variant: three_card_carousel
+    purpose: supply_parent_and_student_social_proof
+    layout:
+      desktop:
+        visible_cards: 3
+        navigation: pagination_dots
+      tablet:
+        visible_cards: 3
+        navigation: pagination_dots
+      mobile:
+        visible_cards: approximately_1_2
+        behavior: horizontally_clipped_carousel
+        navigation: pagination_dots
+
+  - id: matching_process
+    type: process
+    variant: sticky_intro_with_vertical_visual_steps
+    purpose: explain_search_shortlist_booking_and_platform_flow
+    content_regions:
+      - sticky_or_persistent_intro
+      - search_step
+      - shortlist_step
+      - confidence_step
+      - platform_step
+    layout:
+      desktop:
+        background: light_green
+        grid: intro_left_steps_right
+        left_behavior: likely_sticky
+        right_behavior: four_vertical_steps
+      tablet:
+        grid: intro_left_steps_right
+      mobile:
+        layout_mode: stack
+        order:
+          - intro
+          - search_step
+          - shortlist_step
+          - confidence_step
+          - platform_step
+
+  - id: learning_benefits
+    type: benefits
+    variant: heading_copy_plus_three_icon_columns
+    purpose: summarize_personalisation_attention_and_flexibility
+    layout:
+      desktop:
+        background: dark_green
+        top_grid: heading_left_copy_right
+        benefit_grid: 3_columns
+      tablet:
+        top_grid: heading_left_copy_right
+        benefit_grid: 3_columns
+      mobile:
+        top_grid: stack
+        benefit_grid: 1_column
+        vertical_spacing: very_generous
+
+  - id: student_safety
+    type: trust
+    variant: centered_heading_media_with_overlay_proof
+    purpose: communicate_safeguarding_measures
+    content_regions:
+      - centered_heading
+      - large_student_media
+      - tutor_video_thumbnail
+      - three_safety_statements
+      - safeguarding_officer_copy
+    layout:
+      desktop:
+        media: wide
+        safety_items: overlay_along_media_bottom
+      tablet:
+        media: wide
+        safety_items: overlay_along_media_bottom
+      mobile:
+        expected_layout: stacked_or_overlay_adapted
+        screenshot_visibility: not_reliably_captured
+
+  - id: accreditation
+    type: trust_strip
+    variant: centered_accreditation_tiles
+    purpose: provide_regulatory_and_association_proof
+    layout:
+      desktop:
+        logos: 3_centered_tiles
+      tablet:
+        logos: 3_centered_tiles
+      mobile:
+        expected_layout: 3_tiles_or_horizontal_overflow
+        screenshot_visibility: not_reliably_captured
+
+  - id: subject_directory
+    type: services
+    variant: split_intro_with_subject_pills
+    purpose: route_users_into_high_demand_subjects
+    content_regions:
+      - heading
+      - short_description
+      - subject_label
+      - subject_pill_links
+    layout:
+      desktop:
+        container: light_green_rounded_panel
+        top_grid: heading_left_description_right
+        links: wrapping_pill_row
+      tablet:
+        top_grid: "2:1"
+        links: 3_column_wrapping_pills
+      mobile:
+        expected_layout: stack
+        screenshot_visibility: not_reliably_captured
+
+  - id: first_lesson_guarantee
+    type: final_cta
+    variant: centered_copy_with_floating_proof_objects
+    purpose: close_with_risk_reversal_and_primary_conversion
+    content_regions:
+      - centered_heading
+      - explanatory_copy
+      - primary_cta
+      - floating_icons
+      - tutor_and_student_cutouts
+      - result_badges
+    layout:
+      desktop:
+        centered_copy: true
+        decorative_objects: distributed_around_copy
+      tablet:
+        centered_copy: true
+        decorative_objects: distributed_around_copy
+      mobile:
+        centered_copy: true
+        decorative_objects: absent_from_stitched_capture
+
+  - id: directory_footer
+    type: footer
+    variant: oversized_wordmark_and_link_directory
+    purpose: utility_navigation_local_seo_and_legal
+    content_regions:
+      - oversized_background_wordmark
+      - tagline
+      - five_link_groups
+      - social_tiles
+      - legal_links
+      - copyright
+    layout:
+      desktop:
+        link_groups: 5_columns
+        legal_row: horizontal
+      tablet:
+        link_groups: 5_columns
+        legal_row: horizontal
+      mobile:
+        link_groups: accordion_rows
+        legal_links: vertical
+        copyright: bottom
+
+responsive_summary:
+  desktop_to_tablet:
+    - Primary navigation collapses completely to a menu button at 1024px.
+    - Main two-column content remains two-column.
+    - Three-card and three-benefit layouts remain multi-column.
+    - Subject pills reduce to fewer items per row.
+  tablet_to_mobile:
+    - Hero becomes a single content column.
+    - Press logos become horizontally overflowing.
+    - Metrics and guarantee stack.
+    - Process becomes one vertical sequence.
+    - Benefits become one vertical sequence.
+    - Testimonials become a clipped horizontal carousel.
+    - Footer link columns become accordion rows.
+    - Decorative media is reduced or hidden.
+
+qa:
+  structural_scan_complete: true
+  color_analysis_complete: false
+  typography_analysis_complete: false
+  motion_analysis_complete: false
+  content_data_mapping_complete: false
+  unresolved:
+    - Exact behavior of the long scroll-driven scenes
+    - Final mobile arrangement of sections missing from stitched capture
+    - Whether hero right-side media is intentionally hidden at the mobile breakpoint

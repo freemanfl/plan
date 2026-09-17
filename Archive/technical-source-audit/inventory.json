@@ -1,0 +1,1125 @@
+{
+  "live-about-readable.html": {
+    "tags": {
+      "html": 1,
+      "head": 1,
+      "meta": 15,
+      "link": 13,
+      "script": 5,
+      "title": 1,
+      "body": 1,
+      "a": 109,
+      "header": 1,
+      "div": 73,
+      "img": 51,
+      "span": 112,
+      "nav": 1,
+      "button": 2,
+      "ul": 15,
+      "li": 115,
+      "main": 1,
+      "svg": 2,
+      "path": 2,
+      "section": 6,
+      "picture": 15,
+      "source": 37,
+      "h2": 6,
+      "p": 12,
+      "h3": 3,
+      "footer": 1
+    },
+    "attributes": {
+      "html": [
+        "lang"
+      ],
+      "head": [],
+      "meta": [
+        "charset",
+        "content",
+        "http-equiv",
+        "name",
+        "property"
+      ],
+      "link": [
+        "as",
+        "crossorigin",
+        "href",
+        "rel",
+        "sizes",
+        "type"
+      ],
+      "script": [
+        "data-domain",
+        "defer",
+        "src"
+      ],
+      "title": [],
+      "body": [],
+      "a": [
+        "aria-label",
+        "class",
+        "href",
+        "rel",
+        "target"
+      ],
+      "header": [
+        "id"
+      ],
+      "div": [
+        "aria-hidden",
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "img": [
+        "alt",
+        "aria-hidden",
+        "class",
+        "decoding",
+        "height",
+        "loading",
+        "src",
+        "width"
+      ],
+      "span": [
+        "aria-hidden",
+        "class",
+        "target"
+      ],
+      "nav": [
+        "class",
+        "role"
+      ],
+      "button": [
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "ul": [
+        "aria-expanded",
+        "class",
+        "id"
+      ],
+      "li": [
+        "class",
+        "tabindex"
+      ],
+      "main": [
+        "id"
+      ],
+      "svg": [
+        "class",
+        "fill",
+        "height",
+        "preserveaspectratio",
+        "viewbox",
+        "width",
+        "xmlns"
+      ],
+      "path": [
+        "clip-rule",
+        "d",
+        "fill",
+        "fill-rule"
+      ],
+      "section": [
+        "id"
+      ],
+      "picture": [
+        "class"
+      ],
+      "source": [
+        "media",
+        "srcset",
+        "type"
+      ],
+      "h2": [
+        "class"
+      ],
+      "p": [
+        "class"
+      ],
+      "h3": [
+        "class"
+      ],
+      "footer": [
+        "id"
+      ]
+    },
+    "missingImageAlt": [],
+    "missingImageDimensions": [],
+    "duplicateIds": {}
+  },
+  "live-blog-readable.html": {
+    "tags": {
+      "html": 1,
+      "head": 1,
+      "meta": 15,
+      "link": 14,
+      "script": 5,
+      "title": 1,
+      "body": 1,
+      "a": 109,
+      "header": 1,
+      "div": 57,
+      "img": 43,
+      "span": 107,
+      "nav": 1,
+      "button": 2,
+      "ul": 12,
+      "li": 99,
+      "main": 1,
+      "svg": 2,
+      "path": 2,
+      "article": 8,
+      "picture": 22,
+      "h2": 9,
+      "p": 9,
+      "h3": 5,
+      "source": 11,
+      "section": 1,
+      "footer": 1
+    },
+    "attributes": {
+      "html": [
+        "lang"
+      ],
+      "head": [],
+      "meta": [
+        "charset",
+        "content",
+        "http-equiv",
+        "name",
+        "property"
+      ],
+      "link": [
+        "as",
+        "crossorigin",
+        "href",
+        "rel",
+        "sizes",
+        "type"
+      ],
+      "script": [
+        "data-domain",
+        "defer",
+        "src"
+      ],
+      "title": [],
+      "body": [],
+      "a": [
+        "aria-label",
+        "class",
+        "href",
+        "target"
+      ],
+      "header": [
+        "id"
+      ],
+      "div": [
+        "aria-hidden",
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "img": [
+        "alt",
+        "aria-hidden",
+        "class",
+        "decoding",
+        "height",
+        "loading",
+        "src",
+        "width"
+      ],
+      "span": [
+        "aria-hidden",
+        "class",
+        "target"
+      ],
+      "nav": [
+        "class",
+        "role"
+      ],
+      "button": [
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "ul": [
+        "aria-expanded",
+        "class",
+        "id"
+      ],
+      "li": [
+        "class",
+        "tabindex"
+      ],
+      "main": [
+        "id"
+      ],
+      "svg": [
+        "class",
+        "fill",
+        "height",
+        "preserveaspectratio",
+        "viewbox",
+        "width",
+        "xmlns"
+      ],
+      "path": [
+        "clip-rule",
+        "d",
+        "fill",
+        "fill-rule"
+      ],
+      "article": [
+        "class"
+      ],
+      "picture": [
+        "class"
+      ],
+      "h2": [
+        "class"
+      ],
+      "p": [
+        "class"
+      ],
+      "h3": [
+        "class"
+      ],
+      "source": [
+        "media",
+        "srcset",
+        "type"
+      ],
+      "section": [
+        "id"
+      ],
+      "footer": [
+        "id"
+      ]
+    },
+    "missingImageAlt": [],
+    "missingImageDimensions": [],
+    "duplicateIds": {}
+  },
+  "live-blog_best-of-whidbey-digital-marketing-and-web-design-readable.html": {
+    "tags": {
+      "html": 1,
+      "head": 1,
+      "meta": 15,
+      "link": 14,
+      "script": 7,
+      "title": 1,
+      "body": 1,
+      "a": 101,
+      "header": 1,
+      "div": 43,
+      "img": 29,
+      "span": 86,
+      "nav": 1,
+      "button": 2,
+      "ul": 12,
+      "li": 99,
+      "main": 1,
+      "svg": 2,
+      "path": 2,
+      "article": 1,
+      "picture": 8,
+      "h1": 1,
+      "section": 2,
+      "p": 4,
+      "em": 1,
+      "h3": 5,
+      "source": 11,
+      "h2": 1,
+      "footer": 1
+    },
+    "attributes": {
+      "html": [
+        "lang"
+      ],
+      "head": [],
+      "meta": [
+        "charset",
+        "content",
+        "http-equiv",
+        "name",
+        "property"
+      ],
+      "link": [
+        "as",
+        "crossorigin",
+        "href",
+        "rel",
+        "sizes",
+        "type"
+      ],
+      "script": [
+        "data-domain",
+        "defer",
+        "src",
+        "type"
+      ],
+      "title": [],
+      "body": [],
+      "a": [
+        "aria-label",
+        "class",
+        "href",
+        "target"
+      ],
+      "header": [
+        "id"
+      ],
+      "div": [
+        "aria-hidden",
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "img": [
+        "alt",
+        "aria-hidden",
+        "class",
+        "decoding",
+        "height",
+        "loading",
+        "src",
+        "width"
+      ],
+      "span": [
+        "aria-hidden",
+        "class",
+        "target"
+      ],
+      "nav": [
+        "class",
+        "role"
+      ],
+      "button": [
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "ul": [
+        "aria-expanded",
+        "class",
+        "id"
+      ],
+      "li": [
+        "class",
+        "tabindex"
+      ],
+      "main": [
+        "id"
+      ],
+      "svg": [
+        "class",
+        "fill",
+        "height",
+        "preserveaspectratio",
+        "viewbox",
+        "width",
+        "xmlns"
+      ],
+      "path": [
+        "clip-rule",
+        "d",
+        "fill",
+        "fill-rule"
+      ],
+      "article": [
+        "class"
+      ],
+      "picture": [
+        "class"
+      ],
+      "h1": [
+        "class"
+      ],
+      "section": [
+        "id"
+      ],
+      "p": [
+        "class"
+      ],
+      "em": [],
+      "h3": [
+        "class"
+      ],
+      "source": [
+        "media",
+        "srcset",
+        "type"
+      ],
+      "h2": [
+        "class"
+      ],
+      "footer": [
+        "id"
+      ]
+    },
+    "missingImageAlt": [],
+    "missingImageDimensions": [],
+    "duplicateIds": {}
+  },
+  "live-contact-readable.html": {
+    "tags": {
+      "html": 1,
+      "head": 1,
+      "meta": 15,
+      "link": 13,
+      "script": 6,
+      "title": 1,
+      "body": 1,
+      "a": 97,
+      "header": 1,
+      "div": 27,
+      "img": 26,
+      "span": 83,
+      "nav": 1,
+      "button": 3,
+      "ul": 13,
+      "li": 102,
+      "main": 1,
+      "svg": 3,
+      "path": 3,
+      "section": 1,
+      "h2": 1,
+      "p": 2,
+      "picture": 3,
+      "form": 1,
+      "input": 4,
+      "h3": 1,
+      "label": 4,
+      "textarea": 2,
+      "noscript": 1,
+      "iframe": 1,
+      "footer": 1
+    },
+    "attributes": {
+      "html": [
+        "lang"
+      ],
+      "head": [],
+      "meta": [
+        "charset",
+        "content",
+        "http-equiv",
+        "name",
+        "property"
+      ],
+      "link": [
+        "as",
+        "crossorigin",
+        "href",
+        "rel",
+        "sizes",
+        "type"
+      ],
+      "script": [
+        "data-domain",
+        "defer",
+        "src"
+      ],
+      "title": [],
+      "body": [],
+      "a": [
+        "aria-label",
+        "class",
+        "href"
+      ],
+      "header": [
+        "id"
+      ],
+      "div": [
+        "aria-hidden",
+        "aria-label",
+        "class",
+        "data-sitekey",
+        "id",
+        "style"
+      ],
+      "img": [
+        "alt",
+        "aria-hidden",
+        "class",
+        "decoding",
+        "height",
+        "loading",
+        "src",
+        "width"
+      ],
+      "span": [
+        "aria-hidden",
+        "class",
+        "target"
+      ],
+      "nav": [
+        "class",
+        "role"
+      ],
+      "button": [
+        "aria-label",
+        "class",
+        "id",
+        "type"
+      ],
+      "ul": [
+        "aria-expanded",
+        "class",
+        "id"
+      ],
+      "li": [
+        "class",
+        "tabindex"
+      ],
+      "main": [
+        "id"
+      ],
+      "svg": [
+        "class",
+        "fill",
+        "height",
+        "preserveaspectratio",
+        "viewbox",
+        "width",
+        "xmlns"
+      ],
+      "path": [
+        "clip-rule",
+        "d",
+        "fill",
+        "fill-rule"
+      ],
+      "section": [
+        "id"
+      ],
+      "h2": [
+        "class"
+      ],
+      "p": [
+        "class"
+      ],
+      "picture": [
+        "class"
+      ],
+      "form": [
+        "class",
+        "data-netlify-recaptcha",
+        "id",
+        "method",
+        "name"
+      ],
+      "input": [
+        "class",
+        "id",
+        "name",
+        "placeholder",
+        "required",
+        "type",
+        "value"
+      ],
+      "h3": [
+        "class"
+      ],
+      "label": [
+        "class"
+      ],
+      "textarea": [
+        "class",
+        "id",
+        "name",
+        "placeholder",
+        "required",
+        "style"
+      ],
+      "noscript": [],
+      "iframe": [
+        "frameborder",
+        "scrolling",
+        "src",
+        "style"
+      ],
+      "footer": [
+        "id"
+      ]
+    },
+    "missingImageAlt": [],
+    "missingImageDimensions": [],
+    "duplicateIds": {}
+  },
+  "live-faq-readable.html": {
+    "tags": {
+      "html": 1,
+      "head": 1,
+      "meta": 15,
+      "link": 13,
+      "script": 6,
+      "title": 1,
+      "body": 1,
+      "a": 97,
+      "header": 1,
+      "div": 37,
+      "img": 22,
+      "span": 107,
+      "nav": 1,
+      "button": 34,
+      "ul": 16,
+      "li": 127,
+      "main": 1,
+      "svg": 2,
+      "path": 2,
+      "section": 2,
+      "h2": 2,
+      "p": 31,
+      "picture": 1,
+      "source": 2,
+      "footer": 1
+    },
+    "attributes": {
+      "html": [
+        "lang"
+      ],
+      "head": [],
+      "meta": [
+        "charset",
+        "content",
+        "http-equiv",
+        "name",
+        "property"
+      ],
+      "link": [
+        "as",
+        "crossorigin",
+        "href",
+        "rel",
+        "sizes",
+        "type"
+      ],
+      "script": [
+        "data-domain",
+        "defer",
+        "src"
+      ],
+      "title": [],
+      "body": [],
+      "a": [
+        "aria-label",
+        "class",
+        "href"
+      ],
+      "header": [
+        "id"
+      ],
+      "div": [
+        "aria-hidden",
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "img": [
+        "alt",
+        "aria-hidden",
+        "class",
+        "decoding",
+        "height",
+        "loading",
+        "src",
+        "width"
+      ],
+      "span": [
+        "aria-hidden",
+        "class",
+        "target"
+      ],
+      "nav": [
+        "class",
+        "role"
+      ],
+      "button": [
+        "aria-label",
+        "class",
+        "data-filter",
+        "id"
+      ],
+      "ul": [
+        "aria-expanded",
+        "class",
+        "data-category",
+        "id"
+      ],
+      "li": [
+        "class",
+        "tabindex"
+      ],
+      "main": [
+        "id"
+      ],
+      "svg": [
+        "class",
+        "fill",
+        "height",
+        "preserveaspectratio",
+        "viewbox",
+        "width",
+        "xmlns"
+      ],
+      "path": [
+        "clip-rule",
+        "d",
+        "fill",
+        "fill-rule"
+      ],
+      "section": [
+        "id"
+      ],
+      "h2": [
+        "class"
+      ],
+      "p": [
+        "class"
+      ],
+      "picture": [
+        "class"
+      ],
+      "source": [
+        "media",
+        "srcset"
+      ],
+      "footer": [
+        "id"
+      ]
+    },
+    "missingImageAlt": [],
+    "missingImageDimensions": [],
+    "duplicateIds": {}
+  },
+  "live-home-readable.html": {
+    "tags": {
+      "html": 1,
+      "head": 1,
+      "meta": 15,
+      "link": 16,
+      "script": 7,
+      "noscript": 1,
+      "title": 1,
+      "body": 1,
+      "a": 119,
+      "header": 1,
+      "div": 85,
+      "img": 96,
+      "span": 215,
+      "nav": 1,
+      "button": 3,
+      "ul": 23,
+      "li": 150,
+      "main": 1,
+      "section": 10,
+      "h1": 1,
+      "p": 26,
+      "picture": 20,
+      "source": 85,
+      "svg": 3,
+      "path": 5,
+      "g": 1,
+      "defs": 1,
+      "clippath": 1,
+      "h2": 9,
+      "h3": 19,
+      "b": 1,
+      "footer": 1
+    },
+    "attributes": {
+      "html": [
+        "lang"
+      ],
+      "head": [],
+      "meta": [
+        "charset",
+        "content",
+        "http-equiv",
+        "name",
+        "property"
+      ],
+      "link": [
+        "as",
+        "crossorigin",
+        "href",
+        "media",
+        "onload",
+        "rel",
+        "sizes",
+        "type"
+      ],
+      "script": [
+        "data-domain",
+        "defer",
+        "src",
+        "type"
+      ],
+      "noscript": [],
+      "title": [],
+      "body": [],
+      "a": [
+        "aria-label",
+        "class",
+        "href",
+        "target"
+      ],
+      "header": [
+        "id"
+      ],
+      "div": [
+        "aria-hidden",
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "img": [
+        "alt",
+        "aria-hidden",
+        "class",
+        "decoding",
+        "height",
+        "loading",
+        "src",
+        "width"
+      ],
+      "span": [
+        "aria-hidden",
+        "class",
+        "target"
+      ],
+      "nav": [
+        "class",
+        "role"
+      ],
+      "button": [
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "ul": [
+        "aria-expanded",
+        "class",
+        "id"
+      ],
+      "li": [
+        "class",
+        "tabindex"
+      ],
+      "main": [
+        "id"
+      ],
+      "section": [
+        "id"
+      ],
+      "h1": [
+        "class"
+      ],
+      "p": [
+        "class"
+      ],
+      "picture": [
+        "class"
+      ],
+      "source": [
+        "media",
+        "srcset",
+        "type"
+      ],
+      "svg": [
+        "class",
+        "fill",
+        "height",
+        "preserveaspectratio",
+        "viewbox",
+        "width",
+        "xmlns"
+      ],
+      "path": [
+        "d",
+        "fill"
+      ],
+      "g": [
+        "clip-path"
+      ],
+      "defs": [],
+      "clippath": [
+        "id"
+      ],
+      "h2": [
+        "class"
+      ],
+      "h3": [
+        "class"
+      ],
+      "b": [],
+      "footer": [
+        "id"
+      ]
+    },
+    "missingImageAlt": [],
+    "missingImageDimensions": [],
+    "duplicateIds": {}
+  },
+  "live-web-design-readable.html": {
+    "tags": {
+      "html": 1,
+      "head": 1,
+      "meta": 15,
+      "link": 13,
+      "script": 5,
+      "title": 1,
+      "body": 1,
+      "a": 98,
+      "header": 1,
+      "div": 34,
+      "img": 24,
+      "span": 78,
+      "nav": 1,
+      "button": 2,
+      "ul": 13,
+      "li": 105,
+      "main": 1,
+      "svg": 2,
+      "path": 2,
+      "section": 2,
+      "h1": 1,
+      "h2": 3,
+      "p": 11,
+      "h3": 1,
+      "h4": 5,
+      "strong": 2,
+      "picture": 3,
+      "source": 11,
+      "footer": 1
+    },
+    "attributes": {
+      "html": [
+        "lang"
+      ],
+      "head": [],
+      "meta": [
+        "charset",
+        "content",
+        "http-equiv",
+        "name",
+        "property"
+      ],
+      "link": [
+        "as",
+        "crossorigin",
+        "href",
+        "rel",
+        "sizes",
+        "type"
+      ],
+      "script": [
+        "data-domain",
+        "defer",
+        "src"
+      ],
+      "title": [],
+      "body": [],
+      "a": [
+        "aria-label",
+        "class",
+        "href"
+      ],
+      "header": [
+        "id"
+      ],
+      "div": [
+        "aria-hidden",
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "img": [
+        "alt",
+        "aria-hidden",
+        "class",
+        "decoding",
+        "height",
+        "loading",
+        "src",
+        "style",
+        "width"
+      ],
+      "span": [
+        "aria-hidden",
+        "class",
+        "target"
+      ],
+      "nav": [
+        "class",
+        "role"
+      ],
+      "button": [
+        "aria-label",
+        "class",
+        "id"
+      ],
+      "ul": [
+        "aria-expanded",
+        "class",
+        "id"
+      ],
+      "li": [
+        "class",
+        "tabindex"
+      ],
+      "main": [
+        "id"
+      ],
+      "svg": [
+        "class",
+        "fill",
+        "height",
+        "preserveaspectratio",
+        "viewbox",
+        "width",
+        "xmlns"
+      ],
+      "path": [
+        "clip-rule",
+        "d",
+        "fill",
+        "fill-rule"
+      ],
+      "section": [
+        "id"
+      ],
+      "h1": [
+        "class"
+      ],
+      "h2": [
+        "class"
+      ],
+      "p": [
+        "class"
+      ],
+      "h3": [],
+      "h4": [],
+      "strong": [],
+      "picture": [
+        "class"
+      ],
+      "source": [
+        "media",
+        "srcset",
+        "type"
+      ],
+      "footer": [
+        "id"
+      ]
+    },
+    "missingImageAlt": [],
+    "missingImageDimensions": [],
+    "duplicateIds": {}
+  }
+}
