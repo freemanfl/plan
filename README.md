@@ -6,6 +6,27 @@ The physical product is a good-looking, modern, fast site or landing page. The t
 
 This is not a custom agency and not a DIY builder. The bet is a repeatable pipeline: messy client material in, a credible site out, then a short human pass so it looks good. Similar studios already exist. The idea is raw and the market is crowded. That is accepted. The work is to make this version run.
 
+## What we offer
+
+- Domain setup on **their** domain.
+- Hosting.
+- About 5 pages, mobile-ready, with a normal contact route.
+- On-page SEO.
+- Google Business Profile so they can show on Maps (they still verify).
+- Ordinary edits.
+- A simple monthly analytics email.
+
+## What we do not offer
+
+- Eshops.
+- Design overhauls or a second design project after launch.
+- Off-page SEO.
+
+## Not now, maybe later
+
+- Business email on their domain.
+- A booking system.
+
 These four files are the current system:
 
 - This file — what we are doing and why.
